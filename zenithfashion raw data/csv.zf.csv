@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Customer_Segment,Region,City,Category,Sub_Category,Product_Name,Product_ID,Quantity,Unit_Price,Discount_%,Sales_Amount,COGS,Profit,Salesperson,Payment_Mode,Return_Flag
+ORD-20241,19/12/2023,CUST-4028,Rohan Singh,Retail,West,Mumbai,Footwear,Sneakers,Running Sneakers,PROD-3114,5,3499,15,14870.75,9193.49,5677.26,Ashwin Kumar,Card,No
+ORD-20108,12-Mar-24,CUST-4369,Vikram Singh,Online,West,Pune,Womenswear,Sarees,Georgette Saree,PROD-3076,2,1999,,3598.2,2993.56,604.64,Vivek Anand,UPI,No
+ORD-20134,28-Jul-23,CUST-4174,Rajesh Kulkarni,Online,West,Ahmedabad,Menswear,Jackets,Bomber Jacket,PROD-3125,2,2499,20,3998.4,3704.35,294.05,Preeti Kaur,Credit,No
+ORD-20219,6-Jan-24,CUST-4364,Manish Chauhan,Online,South,Chennai,Womenswear,Sarees,Georgette Saree,PROD-3088,6,1299,25,5845.5,4735.06,1110.44,Fatima Sheikh,UPI,No
+ORD-20008,16-Dec-23,CUST-4078,Karan Gupta,Online,North,Lucknow,Accessories,Belts,Leather Belt,PROD-3092,3,1499,0,4497,2906.63,1590.37,Amitabh Roy,Cash,No
+ORD-20397,2-Feb-24,CUST-4421,Arjun Mehta,Wholesale,South,Kochi,Womenswear,Dresses,A-Line Dress,PROD-3067,2,5999,,10198.3,9310.35,887.95,Preeti Kaur,Credit,No
+ORD-20082,7-Feb-24,CUST-4383,Suresh Kapoor,Retail,South,Hyderabad,Accessories,Watches,Smart Watch,PROD-3173,5,3499,15,14870.75,12755.76,2114.99,Fatima Sheikh,Credit,YES
+ORD-20242,3-Jul-23,CUST-4261,Sneha Gupta,Online,East,Guwahati,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3096,4,1299,0,5196,2892.22,2303.78,Fatima Sheikh,Credit,No
+ORD-20049,1-Feb-24,CUST-4450,Ananya Iyer,Wholesale,West,Ahmedabad,Kidswear,Infant Wear,Infant Romper,PROD-3072,6,1999,20,9595.2,7503.15,2092.05,Sonal Desai,Credit,No
+ORD-20140,14-Jan-24,CUST-4279,Rohan Chauhan,Retail,West,Pune,Accessories,Bags,Sling Bag,PROD-3017,4,3499,5,13296.2,10681.3,2614.9,Preeti Kaur,Card,No
+ORD-20026,7-Feb-24,CUST-4037,Neha Rao,Online,South,Kochi,Accessories,Sunglasses,Aviator Sunglasses,PROD-3037,6,799,0,4794,4129.4,664.6,Manoj Tiwari,Credit,No
+ORD-20437,1-Jan-24,CUST-4492,Nikhil Chauhan,Wholesale,North,Delhi,Accessories,Bags,Sling Bag,PROD-3042,1,799,15,679.15,447.78,231.37,Preeti Kaur,Credit,Y
+ORD-20091,11-May-23,CUST-4151,Arjun Kapoor,Online, West ,Pune,Accessories,Bags,Backpack,PROD-3010,6,2499,20,11995.2,11386.57,608.63,Ritika Shah,Cash,No
+ORD-20080,16-Sep-23,CUST-4343,Nisha Pillai,Retail,West,Ahmedabad,Menswear,Jackets,Bomber Jacket,PROD-3046,2,2499,15,4248.3,2662.84,1585.46,Sonal Desai,Cash,No
+ORD-20271,25/01/2024,CUST-4004,Vivaan Bansal,Online,West,Pune,Footwear,Sneakers,Running Sneakers,PROD-3040,4,999,25,2997,2389.98,607.02,Preeti Kaur,Cash,No
+ORD-20135,11-Feb-24,CUST-4126,Nisha Iyer,Retail,East,Bhubaneswar,Accessories,Watches,Chronograph Watch,PROD-3099,3,2499,0,7497,4397.8,3099.2,Vivek Anand,UPI,No
+ORD-20480,29-Jan-24,CUST-4407,Nikhil Mehta,Retail,North,Jaipur,Accessories,Bags,Tote Bag,PROD-3184,2,1499,15,2548.3,1581.41,966.89,Lakshmi Menon,Credit,YES
+ORD-20048,8-Apr-23,CUST-4047,Kabir Nair,Wholesale,North,Chandigarh,Accessories,Bags,Sling Bag,PROD-3180,3,2999,15,7647.45,7204.65,442.8,Fatima Sheikh,Card,No
+ORD-20329,29-Dec-23,CUST-4349,Nisha Chatterjee,Wholesale,East,Bhubaneswar,Kidswear,School Uniforms,School Shirt Set,PROD-3073,4,2999,25,8997,6084.45,2912.55,Ritika Shah,Cash,Yes
+ORD-20337,27-Aug-23,CUST-4090,Siddharth Verma,Wholesale,South,Hyderabad,Accessories,Belts,Canvas Belt,PROD-3176,3,3499,0,10497,9490.19,1006.81,Farhan Khan,Card,No
+ORD-20059,19-Nov-23,CUST-4383,Vikram Singh,Online,West,Ahmedabad,Menswear,Trousers,Formal Trousers,PROD-3006,5,4999,10,22495.5,20608.18,1887.32,Amitabh Roy,Credit,Yes
+ORD-20061,19-Jun-23,CUST-4335,Ishaan Malhotra,Online,West,Ahmedabad,Menswear,Jackets,Denim Jacket,PROD-3113,4,1499,10,5396.4,3182.48,2213.92,Fatima Sheikh,UPI,No
+ORD-20177,25-Jan-24,CUST-4498,Rohan Nair,Retail,South,Hyderabad,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3147,4,2499,5,9496.2,5891.82,3604.38,,UPI,Yes
+ORD-20315,23-Mar-24,CUST-4233,Arjun Kapoor,Wholesale,South,Chennai,Womenswear,Sarees,Cotton Saree,PROD-3100,2,2499,10,4498.2,5079.94,-581.74,Gurpreet Singh,Credit,No
+ORD-20147,9/8/2023,CUST-4059,Rohan Bose,Online,South,Kochi,Accessories,Watches,Chronograph Watch,PROD-3098,4,1299,15,4416.6,3551.83,864.77,Preeti Kaur,Card,No
+ORD-20207,12-Jul-23,CUST-4425,Pooja Mehta,Wholesale,West,Ahmedabad,Womenswear,Dresses,Party Gown,PROD-3127,2,3499,10,6298.2,6553.09,-254.89,Amitabh Roy,Credit,No
+ORD-20262,24-Mar-24,CUST-4107,Rohan Chatterjee,Retail,North,Delhi,Accessories,Belts,Leather Belt,PROD-3197,4,4999,0,19996,11829.06,8166.94,Amitabh Roy,Credit,No
+ORD-20079,19-May-23,CUST-4197,Arjun Singh,Online,South,Hyderabad,Menswear,Trousers,Formal Trousers,PROD-3079,6,2999,5,17094.3,13470.59,3623.71,Lakshmi Menon,Credit,No
+ORD-20143,30-Aug-23,CUST-4492,Aditi Nair,Online,South,Hyderabad,Footwear,Sandals,Wedge Sandals,PROD-3052,5,3499,10,15745.5,11658.99,4086.51,Manoj Tiwari,Credit,No
+ORD-20485,12/3/2024,CUST-4133,Rajesh Kapoor,Online,South,Hyderabad,Womenswear,Tops,Crop Top,PROD-3029,1,2999,15,2549.15,2121.98,427.17,Amitabh Roy,Card,Yes
+ORD-20200,23-Jul-23,CUST-4381,Deepak Das,Wholesale,East,Patna,Footwear,Sandals,Wedge Sandals,PROD-3030,4,799,25,2397,1877.88,519.12,Amitabh Roy,Credit,Yes
+ORD-20380,24-Aug-23,CUST-4014,Kavya Verma,Retail,East,Patna,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3097,1,2999,10,2699.1,2555.45,143.65,Ritika Shah,Card,No
+ORD-20028,23-Dec-23,CUST-4122,Sneha Kapoor,Retail,East,Bhubaneswar,Footwear,Sandals,Wedge Sandals,PROD-3138,1,1299,5,1234.05,792.88,441.17,Manoj Tiwari,Card,No
+ORD-20053,21-Mar-24,CUST-4014,Vivaan Patel,Retail,East,Patna,Footwear,Boots,Ankle Boots,PROD-3062,5,2999,20,11996,9869.35,2126.65,Sonal Desai,Cash,No
+ORD-20439,10-Sep-23,CUST-4484,Meera Singh,Online,West,Ahmedabad,Womenswear,Sarees,Cotton Saree,PROD-3053,4,5999,10,21596.4,12015.15,9581.25,Preeti Kaur,Cash,No
+ORD-20424,18-Dec-23,CUST-4266,Meera Gupta,Retail,North,Lucknow,Womenswear,Sarees,Georgette Saree,PROD-3108,5,999,25,3746.25,2150.27,1595.98,Preeti Kaur,UPI,No
+ORD-20392,30-Jul-23,CUST-4440,Pallavi Gupta,Wholesale,East,Guwahati,Menswear,Jackets,Denim Jacket,PROD-3199,4,3499,25,10497,7507.29,2989.71,Manoj Tiwari,Credit,Yes
+ORD-20414,22-Oct-23,CUST-4302,Manish Kulkarni,Online,West,Pune,Menswear,Shirts,Linen Casual Shirt,PROD-3147,3,4999,0,14997,9855.12,5141.88,Vivek Anand,Cash,No
+ORD-20457,5-Mar-24,CUST-4085,Pooja Chatterjee,Online,East,Guwahati,Kidswear,School Uniforms,School Shirt Set,PROD-3082,6,2499,20,11995.2,9929.67,2065.53,Vivek Anand,Credit,No
+ORD-20213,20-Jun-23,CUST-4240,Deepak Malhotra,Retail,North,Jaipur,Footwear,Formal Shoes,Derby Shoes,PROD-3071,1,4999,5,4749.05,3657.71,1091.34,Farhan Khan,Cash,No
+ORD-20020,6-Aug-23,CUST-4181,Ritu Chauhan,Wholesale,South,Chennai,Womenswear,Tops,Printed Top,PROD-3006,2,2499,15,4248.3,3699.82,548.48,Farhan Khan,UPI,No
+ORD-20010,21-Dec-23,CUST-4126,Kabir Iyer,Wholesale,North,Chandigarh,Kidswear,Girls Wear,Girls Frock,PROD-3018,6,799,5,4554.3,4991.51,-437.21,Fatima Sheikh,Card,No
+ORD-20127,24-Apr-23,CUST-4113,Manish Reddy,Retail,East,Guwahati,Footwear,Formal Shoes,Oxford Shoes,PROD-3084,2,2999,20,4798.4,4238.64,559.76,Preeti Kaur,UPI,No
+ORD-20172,30-Sep-23,CUST-4025,Vikram Das,Wholesale,South,Bengaluru,Accessories,Sunglasses,Sports Sunglasses,PROD-3191,5,1499,0,7495,5507.46,1987.54,Sonal Desai,Cash,No
+ORD-20474,7-Jul-23,CUST-4478,Siddharth Chatterjee,Wholesale,North,Chandigarh,Womenswear,Dresses,A-Line Dress,PROD-3082,2,799,15,1358.3,1451.94,-93.64,,Cash,No
+ORD-20402,29-Mar-24,CUST-4234,Aman Nair,Online,South,Bengaluru,Footwear,Sneakers,Running Sneakers,PROD-3072,2,1299,25,1948.5,1468.19,480.31,Preeti Kaur,Card,No
+ORD-20107,12-Nov-23,CUST-4077,Rahul Mehta,Wholesale,West,Mumbai,Womenswear,Tops,Off-Shoulder Top,PROD-3083,6,3499,20,16795.2,11768.9,5026.3,Vivek Anand,UPI,No
+ORD-20007,6-Apr-23,CUST-4058,Vikram Chauhan,Wholesale,East,Kolkata,Footwear,Boots,Ankle Boots,PROD-3116,1,1999,20,1599.2,1366.97,232.23,Amitabh Roy,UPI,No
+ORD-20155,4/25/2023,CUST-4008,Ishaan Gupta,Wholesale,West,Mumbai,Accessories,Watches,Chronograph Watch,PROD-3033,6,1999,5,11394.3,10252.24,1142.06,Amitabh Roy,UPI,No
+ORD-20273,11-Nov-23,CUST-4277,Nisha Malhotra,Retail,South,Hyderabad,Footwear,Boots,Chelsea Boots,PROD-3153,5,1299,0,6495,4952.15,1542.85,Lakshmi Menon,UPI,No
+ORD-20423,15-Nov-23,CUST-4454,Siddharth Kulkarni,Online,West,Ahmedabad,Accessories,Watches,Smart Watch,PROD-3021,1,4999,10,4499.1,3176.35,1322.75,Sonal Desai,UPI,No
+ORD-20158,8-Jun-23,CUST-4346,Ananya Iyer,Online,North,Chandigarh,Accessories,Bags,Sling Bag,PROD-3054,6,1299,,6624.9,5276.27,1348.63,Farhan Khan,Cash,Yes
+ORD-20297,18-Nov-23,CUST-4449,Vivaan Joshi,Online,West,Mumbai,Kidswear,School Uniforms,School Shirt Set,PROD-3048,3,3499,15,8922.45,8063.74,858.71,Lakshmi Menon,Credit,No
+ORD-20158,8-Jun-23,CUST-4346,Ananya Iyer,Online,North,Chandigarh,Accessories,Bags,Sling Bag,PROD-3054,6,1299,15,6624.9,5276.27,1348.63,Farhan Khan,Cash,Yes
+ORD-20248,13-Aug-23,CUST-4040,Rajesh Verma,Online,West,Surat,Kidswear,Infant Wear,Infant Romper,PROD-3198,2,3499,15,5948.3,3297.05,2651.25,Fatima Sheikh,UPI,No
+ORD-20081,22-May-23,CUST-4276,Anjali Pillai,Retail,East,Bhubaneswar,Kidswear,School Uniforms,School Shirt Set,PROD-3041,2,5999,5,11398.1,12581.1,-1183,Manoj Tiwari,Card,YES
+ORD-20154,21-Nov-23,CUST-4357,Karan Iyer,Online,West,Pune,Accessories,Watches,Smart Watch,PROD-3068,3,1999,10,5397.3,4150.11,1247.19,Vivek Anand,UPI,Yes
+ORD-20130,4/9/2023,CUST-4006,Aarav Pillai,Online,East,Patna,Menswear,Ethnic Wear,Kurta Set,PROD-3027,1,4999,5,4749.05,3069.73,1679.32,Lakshmi Menon,UPI,No
+ORD-20037,25-Feb-24,CUST-4229,Suresh Sharma,Retail,East,Bhubaneswar,Accessories,Watches,Smart Watch,PROD-3169,5,2499,15,10620.75,8192.73,2428.02,Manoj Tiwari,UPI,No
+ORD-20106,18-Mar-24,CUST-4305,Aman Singh,Online,South,Bengaluru,Kidswear,School Uniforms,School Shirt Set,PROD-3134,6,5999,15,30594.9,18635.67,11959.23,Ritika Shah,Cash,No
+ORD-20029,26-Oct-23,CUST-4238,Rahul Verma,Retail,West,Surat,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3122,1,2499,10,2249.1,1914.86,334.24,Trisha Sen,Card,No
+ORD-20035,24-Dec-23,CUST-4138,Rajesh Chauhan,Wholesale,West,Surat,Kidswear,Infant Wear,Infant Onesie,PROD-3062,1,1999,15,1699.15,1100.28,598.87,Ashwin Kumar,Credit,No
+ORD-20043,25-Mar-24,CUST-4036,Vikram Joshi,Wholesale,South,Kochi,Menswear,Trousers,Cargo Pants,PROD-3038,3,1299,0,3897,2236.31,1660.69,Ashwin Kumar,UPI,No
+ORD-20181,25-Mar-24,CUST-4200,Deepak Bansal,Retail,South,Hyderabad,Kidswear,Girls Wear,Girls Frock,PROD-3127,2,2499,25,3748.5,2178.34,1570.16,Gurpreet Singh,Card,No
+ORD-20257,2-Jul-23,CUST-4294,Vikram Joshi,Retail,East,Bhubaneswar,Kidswear,School Uniforms,School Pinafore,PROD-3050,2,1299,15,2208.3,1926.23,282.07,Vivek Anand,Card,Y
+ORD-20215,13-Jan-24,CUST-4343,Neha Patel,Wholesale,North,Chandigarh,Accessories,Bags,Sling Bag,PROD-3196,5,5999,15,25495.75,21331.36,4164.39,Vivek Anand,Cash,No
+ORD-20211,8/2/2024,CUST-4247,Nikhil Malhotra,Retail,West,Surat,Menswear,Shirts,Linen Casual Shirt,PROD-3167,3,799,25,1797.75,1613.18,184.57,Manoj Tiwari,Card,YES
+ORD-20116,5-Feb-24,CUST-4359,Siddharth Malhotra,Online,South,Chennai,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3135,6,2499,0,14994,13747.97,1246.03,Fatima Sheikh,Card,No
+ORD-20282,19-Mar-24,CUST-4419,Nikhil Nair,Online,East,Kolkata,Kidswear,School Uniforms,School Shirt Set,PROD-3199,1,2499,10,2249.1,2028.5,220.6,Amitabh Roy,Card,No
+ORD-20461,15-Mar-24,CUST-4097,Nisha Kulkarni,Retail,East,Kolkata,Footwear,Sandals,Wedge Sandals,PROD-3103,4,5999,25,17997,9983.95,8013.05,Sonal Desai,Credit,No
+ORD-20324,26-Mar-24,CUST-4297,Aman Iyer,Retail,East,Guwahati,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3062,4,999,25,2997,2408.01,588.99,Lakshmi Menon,Cash,Yes
+ORD-20393,22-May-23,CUST-4357,Sneha Pillai,Retail,East,Guwahati,Kidswear,Infant Wear,Infant Onesie,PROD-3177,1,799,25,599.25,483.38,115.87,Preeti Kaur,Card,No
+ORD-20284,20-Jan-24,CUST-4113,Rahul Das,Wholesale,South,Chennai,Footwear,Sneakers,Canvas Sneakers,PROD-3146,6,799,20,3835.2,2721.75,1113.45,Fatima Sheikh,Credit,No
+ORD-20285,6-Jun-23,CUST-4246,Siddharth Mehta,Wholesale,West,Pune,Kidswear,Girls Wear,Girls Frock,PROD-3018,3,2999,10,8097.3,6671.33,1425.97,Amitabh Roy,Credit,No
+ORD-20467,20-Jan-24,CUST-4300,Priya Pillai,Online,West,Ahmedabad,Womenswear,Dresses,Floral Maxi Dress,PROD-3114,1,2999,20,2399.2,2094.56,304.64,Ashwin Kumar,Credit,No
+ORD-20011,5-Dec-23,CUST-4067,Manish Bansal,Online,West,Pune,Accessories,Sunglasses,Aviator Sunglasses,PROD-3024,1,2999,10,2699.1,1941.82,757.28,Manoj Tiwari,Cash,No
+ORD-20280,24-Aug-23,CUST-4265,Ananya Das,Retail,East,Bhubaneswar,Womenswear,Sarees,Silk Saree,PROD-3197,6,1999,20,9595.2,7239.66,2355.54,Ashwin Kumar,Card,No
+ORD-20396,6-Oct-23,CUST-4290,Ishaan Sharma,Online,West,Surat,Accessories,Belts,Leather Belt,PROD-3182,2,1499,10,2698.2,1794.8,903.4,Sonal Desai,Credit,No
+ORD-20456,4-Aug-23,CUST-4390,Rajesh Bansal,Retail,East,Bhubaneswar,Footwear,Formal Shoes,Oxford Shoes,PROD-3161,3,1299,20,3117.6,2922.29,195.31,Farhan Khan,Cash,No
+ORD-20012,2/25/2024,CUST-4372,Meera Nair,Retail,South,Chennai,Kidswear,School Uniforms,School Shirt Set,PROD-3108,2,1999,15,3398.3,2208.63,1189.67,Vivek Anand,Cash,No
+ORD-20021,25/03/2024,CUST-4439,Aman Joshi,Retail,West,Ahmedabad,Footwear,Formal Shoes,Oxford Shoes,PROD-3006,6,1499,15,7644.9,5208.51,2436.39,Lakshmi Menon,UPI,No
+ORD-20204,24-Apr-23,CUST-4148,Neha Pillai,Online,East,Guwahati,Womenswear,Sarees,Cotton Saree,PROD-3091,2,1299,,2208.3,1231.46,976.84,Sonal Desai,Card,No
+ORD-20407,3-Nov-23,CUST-4314,Rohan Rao,Online,West,Mumbai,Menswear,Jackets,Bomber Jacket,PROD-3173,2,1299,15,2208.3,1680.32,527.98,Amitabh Roy,UPI,No
+ORD-20354,2-Jun-23,CUST-4272,Vikram Chauhan,Wholesale,West,Ahmedabad,Menswear,Trousers,Formal Trousers,PROD-3022,1,2999,5,2849.05,1895.61,953.44,Amitabh Roy,Card,No
+ORD-20432,14-May-23,CUST-4316,Siddharth Bansal,Retail,South,Kochi,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3168,5,1299,0,6495,4286.6,2208.4,Manoj Tiwari,Credit,No
+ORD-20270,7-Sep-23,CUST-4081,Simran Verma,Online,North,Lucknow,Accessories,Bags,Tote Bag,PROD-3092,1,1499,0,1499,965.94,533.06,Ritika Shah,Card,No
+ORD-20355,22/03/2024,CUST-4447,Priya Pillai,Online,North,Lucknow,Accessories,Watches,Smart Watch,PROD-3088,4,3499,25,10497,8480.25,2016.75,Amitabh Roy,Cash,Yes
+ORD-20138,10-May-23,CUST-4483,Kabir Malhotra,Online,South,Kochi,Menswear,Trousers,Formal Trousers,PROD-3001,4,2499,20,7996.8,5613.4,2383.4,,UPI,No
+ORD-20323,8-Jan-24,CUST-4196,Karan Joshi,Retail,West,Mumbai,Kidswear,School Uniforms,School Shirt Set,PROD-3182,5,1999,15,8495.75,7821.41,674.34,Ritika Shah,Cash,No
+ORD-20444,26-Oct-23,CUST-4348,Pooja Kapoor,Wholesale,East,Kolkata,Womenswear,Dresses,A-Line Dress,PROD-3107,5,3499,10,15745.5,8692.52,7052.98,Amitabh Roy,Cash,Y
+ORD-20482,5-Nov-23,CUST-4388,Nikhil Das,Online,South,Chennai,Footwear,Boots,Chelsea Boots,PROD-3078,4,1999,15,6796.6,5266.39,1530.21,Gurpreet Singh,Card,No
+ORD-20089,12-Jul-23,CUST-4161,Nikhil Das,Online,West,Surat,Footwear,Sneakers,High-Top Sneakers,PROD-3048,3,2499,0,7497,6719.71,777.29,Amitabh Roy,UPI,No
+ORD-20129,9-May-23,CUST-4342,Vivaan Sharma,Wholesale,South,Chennai,Menswear,Trousers,Chino Trousers,PROD-3055,5,3499,10,15745.5,9040.75,6704.75,Ashwin Kumar,Credit,No
+ORD-20355,22/03/2024,CUST-4447,Priya Pillai,Online,North,Lucknow,Accessories,Watches,Smart Watch,PROD-3088,4,3499,25,10497,8480.25,2016.75,Amitabh Roy,Cash,Yes
+ORD-20364,24-Nov-23,CUST-4405,Aarav Reddy,Wholesale,East,Guwahati,Menswear,Jackets,Bomber Jacket,PROD-3045,4,1499,0,5996,3584.06,2411.94,Amitabh Roy,UPI,No
+ORD-20085,6/10/2023,CUST-4356,Anjali Reddy,Online,West,Surat,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3004,3,1499,5,4272.15,3287.51,984.64,Fatima Sheikh,Credit,No
+ORD-20412,17-Jul-23,CUST-4074,Simran Joshi,Wholesale,South,Bengaluru,Footwear,Boots,Ankle Boots,PROD-3121,4,799,0,3196,1970.15,1225.85,Manoj Tiwari,Credit,YES
+ORD-20233,1-Mar-24,CUST-4145,Rajesh Iyer,Retail,East,Guwahati,Accessories,Bags,Sling Bag,PROD-3168,3,5999,5,17097.15,13271.16,3825.99,Gurpreet Singh,Credit,No
+ORD-20166,6-Aug-23,CUST-4368,Meera Singh,Retail,East,Kolkata,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3057,5,799,15,3395.75,1961.29,1434.46,Lakshmi Menon,UPI,No
+ORD-20458,23-Oct-23,CUST-4404,Kavya Verma,Retail,South,Chennai,Accessories,Watches,Smart Watch,PROD-3055,3,2999,15,7647.45,5953.91,1693.54,Gurpreet Singh,UPI,No
+ORD-20084,23-Jul-23,CUST-4452,Karan Sharma,Wholesale,North,Jaipur,Kidswear,Infant Wear,Infant Romper,PROD-3098,1,2499,5,2374.05,1332.49,1041.56,Manoj Tiwari,UPI,No
+ORD-20139,28-Feb-24,CUST-4069,Arjun Patel,Online,South,Kochi,Footwear,Formal Shoes,Derby Shoes,PROD-3081,3,3499,20,8397.6,7245.36,1152.24,Lakshmi Menon,Credit,No
+ORD-20425,28-Feb-24,CUST-4229,Arjun Bansal,Online,North,Jaipur,Footwear,Formal Shoes,Loafers,PROD-3148,5,4999,20,19996,12868.13,7127.87,Preeti Kaur,Card,No
+ORD-20211,8/2/2024,CUST-4247,Nikhil Malhotra,Retail,West,Surat,Menswear,Shirts,Linen Casual Shirt,PROD-3167,3,799,25,1797.75,1613.18,184.57,Manoj Tiwari,Card,YES
+ORD-20067,8-Sep-23,CUST-4191,Ananya Malhotra,Retail,North,Delhi,Menswear,Ethnic Wear,Kurta Set,PROD-3190,6,2499,5,14244.3,11004.41,3239.89,Fatima Sheikh,UPI,No
+ORD-20238,2-Oct-23,CUST-4469,Neha Verma,Retail,East,Kolkata,Kidswear,Infant Wear,Infant Onesie,PROD-3148,5,5999,5,28495.25,19965.59,8529.66,Ashwin Kumar,Cash,No
+ORD-20163,9/11/2023,CUST-4158,Vikram Gupta,Retail,North,Chandigarh,Menswear,Trousers,Formal Trousers,PROD-3088,5,4999,25,18746.25,12254.4,6491.85,Manoj Tiwari,UPI,No
+ORD-20068,28-Oct-23,CUST-4340,Ritu Rao,Online,North,Lucknow,Kidswear,Infant Wear,Infant Onesie,PROD-3026,5,4999,5,23745.25,14529.53,9215.72,Amitabh Roy,UPI,No
+ORD-20219,6-Jan-24,CUST-4364,Manish Chauhan,Online,South,Chennai,Womenswear,Sarees,Georgette Saree,PROD-3088,6,1299,25,5845.5,4735.06,1110.44,Fatima Sheikh,UPI,No
+ORD-20475,21-Aug-23,CUST-4188,Vivaan Iyer,Retail,West,Ahmedabad,Kidswear,School Uniforms,School Shirt Set,PROD-3182,5,5999,5,28495.25,18544.03,9951.22,Gurpreet Singh,Credit,No
+ORD-20427,10-May-23,CUST-4269,Divya Bansal,Online,West,Ahmedabad,Kidswear,School Uniforms,School Pinafore,PROD-3112,6,3499,25,15745.5,14789.89,955.61,Sonal Desai,Card,No
+ORD-20394,12-Jul-23,CUST-4160,Kavya Iyer,Retail,South,Chennai,Kidswear,Girls Wear,Girls Leggings Set,PROD-3081,4,3499,25,10497,6333.93,4163.07,Ashwin Kumar,UPI,No
+ORD-20404,12-May-23,CUST-4362,Vikram Malhotra,Wholesale,East,Kolkata,Footwear,Sneakers,High-Top Sneakers,PROD-3159,4,2499,25,7497,7121.61,375.39,Ashwin Kumar,Card,No
+ORD-20454,24-Aug-23,CUST-4453,Sneha Gupta,Wholesale,South,Chennai,Womenswear,Dresses,Floral Maxi Dress,PROD-3067,1,799,25,599.25,362.48,236.77,Amitabh Roy,UPI,Yes
+ORD-20145,2-Mar-24,CUST-4014,Manish Kulkarni,Retail,West,Surat,Accessories,Belts,Canvas Belt,PROD-3054,2,1999,25,2998.5,2619.17,379.33,Amitabh Roy,Card,No
+ORD-20334,8-Dec-23,CUST-4102,Rajesh Chatterjee,Retail,West,Mumbai,Womenswear,Leggings,Ankle Leggings,PROD-3157,6,999,15,5094.9,4260.15,834.75,Amitabh Roy,Cash,No
+ORD-20105,12/20/2023,CUST-4083,Divya Kulkarni,Online,East,Patna,Kidswear,School Uniforms,School Pinafore,PROD-3121,1,2499,10,2249.1,1843.19,405.91,Ashwin Kumar,UPI,No
+ORD-20363,27-Oct-23,CUST-4139,Rahul Gupta,Online,West,Pune,Womenswear,Tops,Printed Top,PROD-3074,5,3499,0,17495,15380.2,2114.8,Ashwin Kumar,UPI,No
+ORD-20379,8-Jun-23,CUST-4199,Aman Nair,Online,West,Surat,Accessories,Watches,Chronograph Watch,PROD-3014,4,1999,15,6796.6,5344.97,1451.63,Preeti Kaur,UPI,No
+ORD-20301,7-Jun-23,CUST-4001,Rajesh Singh,Retail,West,Surat,Accessories,Belts,Canvas Belt,PROD-3126,2,1499,20,2398.4,1951.79,446.61,Vivek Anand,Cash,No
+ORD-20157,22-Mar-24,CUST-4061,Deepak Rao,Online,South,Kochi,Menswear,Trousers,Formal Trousers,PROD-3022,6,999,0,5994,4047.99,1946.01,Sonal Desai,Credit,No
+ORD-20261,8-Sep-23,CUST-4149,Nisha Singh,Online,West,Ahmedabad,Accessories,Bags,Sling Bag,PROD-3150,5,3499,15,14870.75,9174.17,5696.58,Sonal Desai,Card,No
+ORD-20117,16-Jun-23,CUST-4437,Pooja Kapoor,Retail,South,Kochi,Menswear,Ethnic Wear,Kurta Set,PROD-3116,2,4999,15,8498.3,9572.03,-1073.73,Lakshmi Menon,Cash,No
+ORD-20178,15-Apr-23,CUST-4180,Kavya Bansal,Retail,South,Kochi,Kidswear,Infant Wear,Infant Romper,PROD-3125,1,999,0,999,642.41,356.59,Fatima Sheikh,Credit,No
+ORD-20356,28-Jul-23,CUST-4266,Simran Patel,Wholesale,East,Patna,Accessories,Sunglasses,Wayfarer Sunglasses,PROD-3077,5,1299,10,5845.5,3616.58,2228.92,Vivek Anand,UPI,YES
+ORD-20362,26-Aug-23,CUST-4372,Pallavi Rao,Online,West,Pune,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3053,3,3499,20,8397.6,7932.84,464.76,Ashwin Kumar,Credit,No
+ORD-20013,2-Jan-24,CUST-4496,Aditi Joshi,Retail,West,Surat,Accessories,Watches,Smart Watch,PROD-3015,2,2999,0,5998,5662.85,335.15,Vivek Anand,UPI,No
+ORD-20460,13-Nov-23,CUST-4330,Aditi Bose,Retail,East,Kolkata,Footwear,Formal Shoes,Oxford Shoes,PROD-3030,1,2499,0,2499,1920.26,578.74,Preeti Kaur,UPI,No
+ORD-20235,11-Jun-23,CUST-4100,Sneha Iyer,Online,North,Delhi,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3196,5,1499,0,7495,5775.93,1719.07,Fatima Sheikh,Credit,No
+ORD-20383,4-Oct-23,CUST-4103,Aman Iyer,Online,South,Hyderabad,Footwear,Sneakers,Canvas Sneakers,PROD-3146,4,1499,20,4796.8,4063.63,733.17,Ashwin Kumar,Cash,No
+ORD-20438,18-Feb-24,CUST-4430,Pooja Das,Retail,South,Bengaluru,Footwear,Sneakers,Canvas Sneakers,PROD-3178,1,1299,25,974.25,752.7,221.55,Trisha Sen,Card,No
+ORD-20479,6-Mar-24,CUST-4410,Vikram Joshi,Online,West,Ahmedabad,Womenswear,Leggings,Jeggings,PROD-3001,1,3499,0,3499,4367.32,-868.32,Farhan Khan,Card,No
+ORD-20473,1-Aug-23,CUST-4008,Rahul Sharma,Retail,East,Bhubaneswar,Menswear,Trousers,Chino Trousers,PROD-3170,2,1299,0,2598,1860.87,737.13,Gurpreet Singh,UPI,No
+ORD-20302,4-Apr-23,CUST-4280,Sneha Kulkarni,Online,South,Bengaluru,Womenswear,Tops,Crop Top,PROD-3167,3,799,5,2277.15,2030.15,247,Ashwin Kumar,UPI,No
+ORD-20253,29-Sep-23,CUST-4293,Sneha Gupta,Online,South,Kochi,Womenswear,Tops,Off-Shoulder Top,PROD-3061,3,1499,5,4272.15,2696.18,1575.97,Ashwin Kumar,UPI,No
+ORD-20420,4-Apr-23,CUST-4414,Aman Patel,Wholesale,South,Bengaluru,Footwear,Sandals,Sports Sandals,PROD-3193,4,2499,25,7497,6117.54,1379.46,Fatima Sheikh,Credit,No
+ORD-20230,11-Nov-23,CUST-4420,Vikram Sharma,Wholesale,South,Chennai,Womenswear,Leggings,Jeggings,PROD-3075,6,1299,10,7014.6,5758.39,1256.21,Manoj Tiwari,UPI,yes
+ORD-20343,22-Feb-24,CUST-4230,Rahul Joshi,Retail,North,Chandigarh,Accessories,Belts,Canvas Belt,PROD-3077,3,2999,0,8997,6955.44,2041.56,Fatima Sheikh,Cash,No
+ORD-20131,10/21/2023,CUST-4235,Kavya Joshi,Online,South,Hyderabad,Menswear,Shirts,Cotton Formal Shirt,PROD-3103,4,2999,20,9596.8,7105.49,2491.31,Manoj Tiwari,Card,No
+ORD-20156,8-Oct-23,CUST-4332,Rohan Verma,Wholesale,East,Bhubaneswar,Accessories,Belts,Canvas Belt,PROD-3024,1,1499,15,1274.15,740.5,533.65,Fatima Sheikh,Credit,No
+ORD-20292,19-Jan-24,CUST-4496,Arjun Kulkarni,Wholesale,West,Pune,Womenswear,Tops,Off-Shoulder Top,PROD-3138,6,1499,5,8544.3,5755.43,2788.87,Fatima Sheikh,Card,No
+ORD-20442,9-Dec-23,CUST-4018,Sneha Malhotra,Online,South,Bengaluru,Womenswear,Leggings,Ankle Leggings,PROD-3071,5,4999,15,21245.75,13133.93,8111.82,Manoj Tiwari,Card,No
+ORD-20413,11/28/2023,CUST-4299,Kabir Mehta,Wholesale,West,Mumbai,Footwear,Sneakers,Running Sneakers,PROD-3161,6,2999,15,15294.9,13604,1690.9,Ashwin Kumar,UPI,No
+ORD-20266,25-Feb-24,CUST-4193,Kabir Singh,Retail,West,Pune,Kidswear,Infant Wear,Infant Onesie,PROD-3166,6,4999,10,26994.6,19305.5,7689.1,Sonal Desai,Card,No
+ORD-20186,21-Feb-24,CUST-4041,Aman Nair,Wholesale,West,Surat,Accessories,Bags,Tote Bag,PROD-3164,5,2999,5,14245.25,9949,4296.25,Sonal Desai,Credit,No
+ORD-20095,7-Jan-24,CUST-4456,Arjun Gupta,Online,South,Hyderabad,Kidswear,Girls Wear,Girls Frock,PROD-3051,2,1499,15,2548.3,1428.36,1119.94,Gurpreet Singh,Credit,No
+ORD-20318,24-Nov-23,CUST-4049,Anjali Kapoor,Retail,East,Guwahati,Menswear,Shirts,Checked Slim Shirt,PROD-3152,4,2499,15,8496.6,6865.22,1631.38,Farhan Khan,Card,Yes
+ORD-20071,26-Apr-23,CUST-4139,Neha Rao,Wholesale,West,Surat,Footwear,Formal Shoes,Loafers,PROD-3029,3,2999,0,8997,5967.7,3029.3,Vivek Anand,UPI,No
+ORD-20290,21-Nov-23,CUST-4364,Aarav Verma,Retail,East,Patna,Accessories,Sunglasses,Sports Sunglasses,PROD-3040,1,2499,25,1874.25,1294.67,579.58,Farhan Khan,UPI,No
+ORD-20119,13-Oct-23,CUST-4469,Nikhil Chatterjee,Wholesale,North,Chandigarh,Footwear,Sneakers,Running Sneakers,PROD-3137,4,4999,5,18996.2,15978.53,3017.67,Ritika Shah,Cash,YES
+ORD-20023,21-Jan-24,CUST-4022,Nisha Rao,Retail,South,Hyderabad,Accessories,Belts,Canvas Belt,PROD-3084,5,2499,25,9371.25,8332.97,1038.28,Lakshmi Menon,UPI,No
+ORD-20260,18-Dec-23,CUST-4377,Neha Iyer,Wholesale,East,Guwahati,Womenswear,Tops,Off-Shoulder Top,PROD-3086,4,5999,20,19196.8,13666.38,5530.42,Amitabh Roy,Card,No
+ORD-20305,10-Sep-23,CUST-4294,Rajesh Bose,Retail,West,Surat,Accessories,Watches,Chronograph Watch,PROD-3059,6,1999,5,11394.3,13261.32,-1867.02,Amitabh Roy,Card,No
+ORD-20153,21-Jan-24,CUST-4321,Rahul Chatterjee,Wholesale,North,Delhi,Accessories,Bags,Sling Bag,PROD-3094,4,3499,10,12596.4,9860.24,2736.16,Manoj Tiwari,Cash,No
+ORD-20201,12/13/2023,CUST-4271,Arjun Rao,Retail,South,Chennai,Womenswear,Sarees,Cotton Saree,PROD-3145,4,1299,10,4676.4,4185.18,491.22,Amitabh Roy,Credit,No
+ORD-20126,1-Aug-23,CUST-4397,Arjun Chatterjee,Wholesale,East,Patna,Footwear,Sandals,Sports Sandals,PROD-3127,4,999,25,2997,2211.18,785.82,Farhan Khan,UPI,No
+ORD-20196,15/03/2024,CUST-4331,Rohan Kulkarni,Retail,South,Hyderabad,Kidswear,Infant Wear,Infant Onesie,PROD-3108,4,2499,15,8496.6,5529.58,2967.02,Preeti Kaur,Credit,No
+ORD-20062,20-Aug-23,CUST-4062,Deepak Kapoor,Retail,South,Bengaluru,Menswear,Jackets,Denim Jacket,PROD-3032,5,1499,0,7495,6610.04,884.96,Ashwin Kumar,Card,No
+ORD-20411,5/30/2023,CUST-4235,Nisha Chatterjee,Online,West,Ahmedabad,Kidswear,Infant Wear,Infant Onesie,PROD-3077,1,1299,5,1234.05,685.58,548.47,Ritika Shah,Card,No
+ORD-20382,27-Nov-23,CUST-4162,Divya Bansal,Wholesale,East,Kolkata,Accessories,Belts,Canvas Belt,PROD-3172,2,2499,15,4248.3,3190.93,1057.37,Gurpreet Singh,Card,No
+ORD-20401,17-Jun-23,CUST-4472,Vikram Kapoor,Retail,South,Chennai,Menswear,Trousers,Chino Trousers,PROD-3009,4,1999,5,7596.2,6322.96,1273.24,Vivek Anand,Cash,No
+ORD-20104,20-May-23,CUST-4406,Meera Chauhan,Wholesale,South,Chennai,Kidswear,School Uniforms,School Shirt Set,PROD-3011,1,1299,25,974.25,665.62,308.63,Vivek Anand,Card,No
+ORD-20296,11-Nov-23,CUST-4250,Nisha Patel,Wholesale,South,Kochi,Accessories,Belts,Canvas Belt,PROD-3188,4,2499,15,8496.6,6751.41,1745.19,Ashwin Kumar,Cash,No
+ORD-20039,9-Jul-23,CUST-4184,Rohan Das,Retail,South,Hyderabad,Menswear,Shirts,Checked Slim Shirt,PROD-3074,6,1299,25,5845.5,5245.66,599.84,Ritika Shah,UPI,No
+ORD-20112,30-Jun-23,CUST-4018,Anjali Chatterjee,Wholesale,South,Hyderabad,Menswear,Shirts,Linen Casual Shirt,PROD-3145,5,999,10,4495.5,2984.22,1511.28,Fatima Sheikh,Credit,Yes
+ORD-20130,4/9/2023,CUST-4006,Aarav Pillai,Online,East,Patna,Menswear,Ethnic Wear,Kurta Set,PROD-3027,1,4999,5,4749.05,3069.73,1679.32,Lakshmi Menon,UPI,No
+ORD-20227,30-Aug-23,CUST-4098,Meera Pillai,Retail,North,Chandigarh,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3053,6,1499,25,6745.5,4854.63,1890.87,Fatima Sheikh,Credit,No
+ORD-20312,17-Jul-23,CUST-4098,Arjun Singh,Online,East,Guwahati,Menswear,Jackets,Denim Jacket,PROD-3040,3,999,0,2997,2797.16,199.84,Amitabh Roy,Card,No
+ORD-20483,10-Jul-23,CUST-4097,Aarav Sharma,Online,East,Guwahati,Accessories,Sunglasses,Wayfarer Sunglasses,PROD-3190,3,2999,15,7647.45,5147.68,2499.77,Amitabh Roy,Credit,Yes
+ORD-20257,2-Jul-23,CUST-4294,Vikram Joshi,Retail,East,Bhubaneswar,Kidswear,School Uniforms,School Pinafore,PROD-3050,2,1299,15,2208.3,1926.23,282.07,Vivek Anand,Card,Y
+ORD-20371,4/15/2023,CUST-4485,Kavya Bose,Wholesale,South,Chennai,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3148,1,4999,5,4749.05,3971.75,777.3,Sonal Desai,Cash,YES
+ORD-20443,5-Jun-23,CUST-4065,Sneha Bansal,Retail,East,Bhubaneswar,Menswear,Jackets,Windcheater,PROD-3143,4,799,15,2716.6,2190.63,525.97,Ritika Shah,UPI,No
+ORD-20360,18-May-23,CUST-4311,Simran Mehta,Online,South,Hyderabad,Womenswear,Dresses,Floral Maxi Dress,PROD-3137,4,999,20,3196.8,2262.6,934.2,Ashwin Kumar,Cash,Yes
+ORD-20092,25-Oct-23,CUST-4410,Manish Gupta,Retail,South,Kochi,Menswear,Trousers,Chino Trousers,PROD-3060,6,2499,10,13494.6,9488.62,4005.98,Ashwin Kumar,Card,No
+ORD-20400,8/9/2023,CUST-4255,Deepak Singh,Online,East,Guwahati,Footwear,Sandals,Sports Sandals,PROD-3194,3,4999,10,13497.3,9776.23,3721.07,Manoj Tiwari,Credit,No
+ORD-20333,9-May-23,CUST-4472,Sneha Rao,Online,East,Patna,Womenswear,Dresses,A-Line Dress,PROD-3198,1,2999,15,2549.15,1741.23,807.92,Lakshmi Menon,Card,No
+ORD-20464,17-Sep-23,CUST-4409,Rajesh Kulkarni,Online,West,Surat,Womenswear,Leggings,Ankle Leggings,PROD-3136,4,1499,15,5096.6,3024.6,2072,Vivek Anand,UPI,No
+ORD-20202,30-Jun-23,CUST-4029,Aarav Kapoor,Wholesale,South,Chennai,Kidswear,Girls Wear,Girls Leggings Set,PROD-3195,1,1299,20,1039.2,751.85,287.35,Trisha Sen,Credit,No
+ORD-20110,19-Jul-23,CUST-4275,Sneha Chauhan,Online,East,Bhubaneswar,Menswear,Trousers,Chino Trousers,PROD-3012,6,4999,5,28494.3,31772.83,-3278.53,Manoj Tiwari,Credit,No
+ORD-20301,7-Jun-23,CUST-4001,Rajesh Singh,Retail,West,Surat,Accessories,Belts,Canvas Belt,PROD-3126,2,1499,20,2398.4,1951.79,446.61,Vivek Anand,Cash,No
+ORD-20191,31-Dec-23,CUST-4449,Rahul Singh,Wholesale,West,Surat,Menswear,Trousers,Formal Trousers,PROD-3103,2,5999,20,9598.4,7893.01,1705.39,Trisha Sen,UPI,No
+ORD-20225,31-Dec-23,CUST-4178,Kabir Mehta,Online,East,Patna,Footwear,Sandals,Flat Sandals,PROD-3192,5,4999,15,21245.75,20154.83,1090.92,Preeti Kaur,Cash,No
+ORD-20027,6-Aug-23,CUST-4062,Neha Reddy,Wholesale,East,Guwahati,Kidswear,School Uniforms,School Pinafore,PROD-3040,6,3499,15,17844.9,11664.79,6180.11,Preeti Kaur,UPI,No
+ORD-20330,21-Feb-24,CUST-4432,Rahul Kulkarni,Online,East,Patna,Footwear,Sandals,Flat Sandals,PROD-3065,6,5999,15,30594.9,22470.22,8124.68,Farhan Khan,Card,No
+ORD-20093,7-Oct-23,CUST-4390,Aditi Bansal,Retail,East,Guwahati,Footwear,Sandals,Flat Sandals,PROD-3029,1,1299,15,1104.15,835.95,268.2,Amitabh Roy,UPI,No
+ORD-20003,22-Nov-23,CUST-4498,Nikhil Chatterjee,Retail,East,Patna,Kidswear,Girls Wear,Girls Frock,PROD-3011,6,1499,10,8094.6,7642.02,452.58,Amitabh Roy,Credit,No
+ORD-20378,2-Jan-24,CUST-4487,Ritu Verma,Wholesale,North,Jaipur,Accessories,Bags,Backpack,PROD-3113,4,799,0,3196,1983.91,1212.09,Lakshmi Menon,Card,No
+ORD-20051,28-Feb-24,CUST-4253,Vivaan Reddy,Online,East,Kolkata,Accessories,Belts,Canvas Belt,PROD-3116,1,1299,15,1104.15,991.94,112.21,Amitabh Roy,Credit,No
+ORD-20470,8-Aug-23,CUST-4022,Neha Sharma,Retail,West,Surat,Footwear,Boots,Ankle Boots,PROD-3101,1,799,10,719.1,428.49,290.61,Gurpreet Singh,Credit,No
+ORD-20322,9/3/2024,CUST-4036,Simran Sharma,Retail,West,Surat,Womenswear,Dresses,Floral Maxi Dress,PROD-3164,4,3499,25,10497,8311.23,2185.77,Sonal Desai,Credit,No
+ORD-20038,19-Nov-23,CUST-4128,Kabir Nair,Online,South,Hyderabad,Menswear,Trousers,Chino Trousers,PROD-3055,6,3499,10,18894.6,15868.33,3026.27,Fatima Sheikh,UPI,Y
+ORD-20269,7-Aug-23,CUST-4424,Aarav Nair,Online, South ,Kochi,Accessories,Watches,Chronograph Watch,PROD-3008,2,3499,25,5248.5,4505.3,743.2,Farhan Khan,Credit,No
+ORD-20342,18-Feb-24,CUST-4398,Rohan Sharma,Wholesale,North,Delhi,Menswear,Trousers,Chino Trousers,PROD-3180,6,5999,10,32394.6,23210.37,9184.23,Vivek Anand,Card,No
+ORD-20214,19-Jan-24,CUST-4438,Aman Kapoor,Wholesale, North ,Jaipur,Menswear,Shirts,Linen Casual Shirt,PROD-3105,1,4999,20,3999.2,2199.83,1799.37,Ashwin Kumar,UPI,Yes
+ORD-20283,3-Feb-24,CUST-4324,Ritu Chatterjee,Retail,East,Kolkata,Footwear,Formal Shoes,Derby Shoes,PROD-3128,6,1499,5,8544.3,4872.03,3672.27,Trisha Sen,Credit,No
+ORD-20036,10-Dec-23,CUST-4093,Aman Mehta,Wholesale,East,Patna,Footwear,Sandals,Sports Sandals,PROD-3002,5,1499,,7495,4845.84,2649.16,Fatima Sheikh,Card,No
+ORD-20148,7-Dec-23,CUST-4095,Meera Kapoor,Online, North ,Lucknow,Menswear,Ethnic Wear,Kurta Set,PROD-3049,4,4999,20,15996.8,12977.05,3019.75,Vivek Anand,Credit,No
+ORD-20369,3/9/2023,CUST-4113,Ananya Reddy,Online,South,Hyderabad,Womenswear,Tops,Crop Top,PROD-3020,4,999,0,3996,2227.86,1768.14,Trisha Sen,Cash,No
+ORD-20331,12-Mar-24,CUST-4092,Meera Chauhan,Retail,North,Delhi,Menswear,Ethnic Wear,Kurta Set,PROD-3134,1,3499,10,3149.1,2008.39,1140.71,Farhan Khan,Cash,No
+ORD-20118,2-Apr-23,CUST-4296,Aditi Verma,Wholesale,East,Kolkata,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3120,1,1999,15,1699.15,1056.86,642.29,Preeti Kaur,Credit,No
+ORD-20078,23-Sep-23,CUST-4043,Pooja Gupta,Retail,South,Kochi,Accessories,Watches,Smart Watch,PROD-3095,3,2999,15,7647.45,6575.17,1072.28,Ritika Shah,UPI,No
+ORD-20182,16-May-23,CUST-4343,Simran Patel,Wholesale,North,Lucknow,Womenswear,Tops,Off-Shoulder Top,PROD-3017,3,1999,0,5997,6721.38,-724.38,Trisha Sen,Card,Yes
+ORD-20472,18-Jun-23,CUST-4091,Priya Verma,Online,South,Kochi,Menswear,Shirts,Linen Casual Shirt,PROD-3176,3,3499,0,10497,11618.09,-1121.09,Farhan Khan,Card,No
+ORD-20306,30-Oct-23,CUST-4170,Karan Chauhan,Online,South,Bengaluru,Womenswear,Sarees,Cotton Saree,PROD-3017,3,1999,20,4797.6,3694.14,1103.46,Amitabh Roy,UPI,No
+ORD-20376,24-Feb-24,CUST-4182,Aman Kulkarni,Wholesale, West ,Ahmedabad,Womenswear,Leggings,Ankle Leggings,PROD-3031,3,3499,15,8922.45,5731.15,3191.3,Ritika Shah,Cash,No
+ORD-20265,27-Nov-23,CUST-4352,Nikhil Malhotra,Wholesale,East,Kolkata,Accessories,Bags,Sling Bag,PROD-3059,1,4999,10,4499.1,2813.86,1685.24,Trisha Sen,Credit,No
+ORD-20332,18/05/2023,CUST-4486,Rajesh Nair,Online,North,Delhi,Kidswear,Girls Wear,Girls Leggings Set,PROD-3168,6,5999,5,34194.3,31062.12,3132.18,Lakshmi Menon,UPI,No
+ORD-20316,27-Jun-23,CUST-4178,Rajesh Bansal,Retail,North,Jaipur,Menswear,Jackets,Windcheater,PROD-3166,1,1999,20,1599.2,1174.44,424.76,Farhan Khan,Card,No
+ORD-20025,13-Nov-23,CUST-4261,Aman Gupta,Online,North,Lucknow,Kidswear,Infant Wear,Infant Romper,PROD-3192,2,1999,5,3798.1,3314.32,483.78,Ritika Shah,Card,Y
+ORD-20239,10-Oct-23,CUST-4114,Pooja Chatterjee,Wholesale,East,Guwahati,Accessories,Belts,Canvas Belt,PROD-3035,4,1299,5,4936.2,2867.12,2069.08,Farhan Khan,Card,No
+ORD-20349,22-Jan-24,CUST-4474,Kavya Reddy,Online,North,Jaipur,Menswear,Shirts,Linen Casual Shirt,PROD-3187,5,799,15,3395.75,2589.09,806.66,Manoj Tiwari,Cash,No
+ORD-20246,14-Mar-24,CUST-4104,Rahul Chauhan,Online,West,Pune,Footwear,Boots,Chelsea Boots,PROD-3078,5,2499,25,9371.25,6646.58,2724.67,Preeti Kaur,Cash,No
+ORD-20441,22-Mar-24,CUST-4063,Neha Bose,Retail,West,Mumbai,Womenswear,Dresses,A-Line Dress,PROD-3174,6,2499,5,14244.3,8346.97,5897.33,Lakshmi Menon,Card,No
+ORD-20368,23-Jul-23,CUST-4407,Pallavi Chauhan,Online,North,Jaipur,Accessories,Belts,Leather Belt,PROD-3033,1,3499,10,3149.1,2124.48,1024.62,Vivek Anand,UPI,No
+ORD-20216,3-Mar-24,CUST-4174,Karan Das,Online,East,Kolkata,Menswear,Trousers,Formal Trousers,PROD-3035,6,2999,0,17994,11726.97,6267.03,Amitabh Roy,Credit,No
+ORD-20073,8-Mar-24,CUST-4036,Divya Verma,Wholesale,North,Jaipur,Menswear,Jackets,Windcheater,PROD-3109,5,2999,25,11246.25,9065.11,2181.14,Trisha Sen,Cash,YES
+ORD-20430,23-Apr-23,CUST-4293,Arjun Bansal,Wholesale,East,Guwahati,Accessories,Watches,Analog Watch,PROD-3129,6,3499,15,17844.9,14577.29,3267.61,Manoj Tiwari,UPI,No
+ORD-20136,23/05/2023,CUST-4220,Neha Chauhan,Online,West,Mumbai,Menswear,Shirts,Linen Casual Shirt,PROD-3141,1,5999,20,4799.2,4145.43,653.77,Ritika Shah,UPI,No
+ORD-20019,13-Nov-23,CUST-4218,Siddharth Sharma,Retail,North,Chandigarh,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3149,5,1299,15,5520.75,3317.85,2202.9,Ritika Shah,UPI,No
+ORD-20221,14-Jun-23,CUST-4353,Suresh Das,Retail, North ,Lucknow,Accessories,Belts,Canvas Belt,PROD-3172,6,4999,5,28494.3,24133.68,4360.62,Farhan Khan,UPI,No
+ORD-20375,28-Jan-24,CUST-4379,Nikhil Gupta,Retail,East,Bhubaneswar,Footwear,Formal Shoes,Loafers,PROD-3103,1,1499,15,1274.15,1070.39,203.76,Manoj Tiwari,UPI,No
+ORD-20370,17-Apr-23,CUST-4262,Kavya Verma,Wholesale,North,Lucknow,Menswear,Shirts,Linen Casual Shirt,PROD-3170,1,999,0,999,917.12,81.88,Farhan Khan,Card,No
+ORD-20090,22-Oct-23,CUST-4458,Divya Patel,Retail,West,Surat,Footwear,Sandals,Flat Sandals,PROD-3186,4,999,15,3396.6,2686.65,709.95,Fatima Sheikh,UPI,No
+ORD-20122,10-Mar-24,CUST-4121,Arjun Reddy,Online,South,Kochi,Footwear,Sandals,Flat Sandals,PROD-3142,5,1299,25,4871.25,4001.73,869.52,Ritika Shah,UPI,yes
+ORD-20174,11/23/2023,CUST-4420,Manish Chatterjee,Wholesale,North,Jaipur,Accessories,Watches,Smart Watch,PROD-3054,2,1999,10,3598.2,2620.95,977.25,Ashwin Kumar,Card,No
+ORD-20365,15-Jan-24,CUST-4132,Simran Malhotra,Online,North,Lucknow,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3041,5,799,5,3795.25,2572.7,1222.55,Sonal Desai,UPI,No
+ORD-20346,12-Mar-24,CUST-4117,Ritu Nair,Wholesale,South,Bengaluru,Womenswear,Leggings,Ankle Leggings,PROD-3096,2,999,15,1698.3,1902.52,-204.22,Farhan Khan,Credit,No
+ORD-20278,1-Jul-23,CUST-4285,Rahul Nair,Online,East,Guwahati,Accessories,Belts,Leather Belt,PROD-3046,5,2999,20,11996,8217.32,3778.68,Ashwin Kumar,Credit,Yes
+ORD-20263,5-Aug-23,CUST-4226,Simran Reddy,Retail,South,Bengaluru,Menswear,Jackets,Bomber Jacket,PROD-3121,4,4999,10,17996.4,13846.76,4149.64,Manoj Tiwari,Card,No
+ORD-20006,6-Nov-23,CUST-4204,Karan Joshi,Retail,West,Mumbai,Menswear,Shirts,Cotton Formal Shirt,PROD-3160,2,2999,20,4798.4,2761.05,2037.35,Vivek Anand,UPI,YES
+ORD-20466,27-Jun-23,CUST-4465,Rahul Chatterjee,Retail,North,Chandigarh,Kidswear,School Uniforms,School Pinafore,PROD-3190,1,2999,5,2849.05,1715.05,1134,Trisha Sen,Credit,No
+ORD-20251,14-Dec-23,CUST-4484,Ishaan Pillai,Wholesale,East,Guwahati,Accessories,Sunglasses,Aviator Sunglasses,PROD-3193,3,3499,25,7872.75,5780.87,2091.88,Ritika Shah,Credit,No
+ORD-20169,28-Jul-23,CUST-4266,Rahul Bose,Wholesale,North,Delhi,Kidswear,Girls Wear,Girls Leggings Set,PROD-3019,5,5999,0,29995,21716.17,8278.83,Farhan Khan,UPI,No
+ORD-20209,30/05/2023,CUST-4004,Deepak Reddy,Online,South,Hyderabad,Footwear,Boots,Combat Boots,PROD-3068,6,999,10,5394.6,4725.59,669.01,Trisha Sen,Credit,YES
+ORD-20077,4/20/2023,CUST-4039,Simran Iyer,Online,West,Surat,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3146,6,1499,10,8094.6,6410.94,1683.66,Ritika Shah,Credit,No
+ORD-20101,6/12/2023,CUST-4484,Divya Kulkarni,Wholesale,South,Chennai,Footwear,Sandals,Flat Sandals,PROD-3195,2,3499,20,5598.4,4124.49,1473.91,Vivek Anand,Cash,No
+ORD-20286,26-Sep-23,CUST-4176,Rajesh Sharma,Wholesale,South,Hyderabad,Kidswear,School Uniforms,School Shirt Set,PROD-3112,1,1499,5,1424.05,1173.62,250.43,Manoj Tiwari,Cash,No
+ORD-20387,6-Sep-23,CUST-4286,Rahul Rao,Online,North,Chandigarh,Womenswear,Sarees,Silk Saree,PROD-3007,3,1999,25,4497.75,3464.54,1033.21,Ritika Shah,Credit,No
+ORD-20367,16-Mar-24,CUST-4138,Vikram Bose,Retail,East,Bhubaneswar,Menswear,Trousers,Cargo Pants,PROD-3072,3,3499,15,8922.45,6121.92,2800.53,Amitabh Roy,Card,No
+ORD-20303,5/15/2023,CUST-4091,Rohan Das,Online,South,Kochi,Kidswear,Infant Wear,Infant Romper,PROD-3023,3,2499,10,6747.3,6133.38,613.92,Trisha Sen,Cash,No
+ORD-20289,17-Aug-23,CUST-4467,Vikram Bose,Retail,North,Lucknow,Accessories,Watches,Smart Watch,PROD-3130,6,999,10,5394.6,4012.85,1381.75,Amitabh Roy,Card,No
+ORD-20222,25-Apr-23,CUST-4198,Rahul Patel,Online,North,Delhi,Footwear,Formal Shoes,Loafers,PROD-3199,4,1499,25,4497,3740.84,756.16,Ashwin Kumar,Card,No
+ORD-20237,11-Jun-23,CUST-4091,Kavya Bansal,Online,South,Kochi,Footwear,Sneakers,Running Sneakers,PROD-3194,4,1499,0,5996,3931.83,2064.17,Preeti Kaur,Card,No
+ORD-20403,3-Apr-23,CUST-4292,Rohan Rao,Retail,South,Kochi,Menswear,Jackets,Denim Jacket,PROD-3072,6,999,15,5094.9,3563.49,1531.41,Amitabh Roy,UPI,No
+ORD-20298,29-Aug-23,CUST-4027,Nisha Pillai,Retail,West,Surat,Menswear,Shirts,Cotton Formal Shirt,PROD-3199,5,4999,5,23745.25,16793.27,6951.98,Ritika Shah,Card,No
+ORD-20180,13/09/2023,CUST-4374,Rahul Malhotra,Online,East,Bhubaneswar,Kidswear,Infant Wear,Infant Romper,PROD-3170,5,1299,15,5520.75,3713.97,1806.78,Sonal Desai,Card,No
+ORD-20304,6/8/2023,CUST-4168,Pooja Rao,Online,South,Chennai,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3146,6,4999,0,29994,22299.5,7694.5,Manoj Tiwari,UPI,No
+ORD-20208,17-May-23,CUST-4038,Manish Nair,Wholesale,South,Kochi,Footwear,Sandals,Wedge Sandals,PROD-3012,1,1299,0,1299,1157.28,141.72,Preeti Kaur,UPI,No
+ORD-20347,9/10/2023,CUST-4323,Karan Singh,Retail,East,Bhubaneswar,Menswear,Shirts,Linen Casual Shirt,PROD-3034,1,3499,15,2974.15,2133.33,840.82,Farhan Khan,UPI,No
+ORD-20188,17-Mar-24,CUST-4243,Kavya Joshi,Wholesale,East,Kolkata,Accessories,Belts,Canvas Belt,PROD-3146,5,5999,25,22496.25,21216.26,1279.99,Vivek Anand,Card,yes
+ORD-20218,28-Jun-23,CUST-4065,Ishaan Chatterjee,Online,East,Guwahati,Accessories,Watches,Smart Watch,PROD-3101,3,1999,15,5097.45,4444.56,652.89,Ashwin Kumar,UPI,No
+ORD-20054,13-Oct-23,CUST-4123,Aman Bansal,Retail,South,Kochi,Footwear,Boots,Chelsea Boots,PROD-3170,1,3499,10,3149.1,2585.55,563.55,Vivek Anand,UPI,Y
+ORD-20184,22-Jun-23,CUST-4280,Pallavi Iyer,Wholesale,West,Mumbai,Accessories,Watches,Chronograph Watch,PROD-3111,2,799,0,1598,1090.54,507.46,Trisha Sen,UPI,No
+ORD-20429,4-Sep-23,CUST-4155,Arjun Malhotra,Retail,South,Chennai,Kidswear,School Uniforms,School Shirt Set,PROD-3078,3,1499,5,4272.15,3749.45,522.7,Amitabh Roy,UPI,No
+ORD-20040,12-Nov-23,CUST-4494,Vivaan Singh,Wholesale,North,Delhi,Accessories,Sunglasses,Aviator Sunglasses,PROD-3147,6,799,5,4554.3,2776.66,1777.64,Lakshmi Menon,Cash,Y
+ORD-20471,5/5/2023,CUST-4365,Neha Reddy,Wholesale,East,Bhubaneswar,Womenswear,Dresses,Party Gown,PROD-3025,2,1999,0,3998,3053.92,944.08,Amitabh Roy,Cash,No
+ORD-20484,3-Jun-23,CUST-4289,Rohan Mehta,Wholesale,East,Patna,Kidswear,School Uniforms,School Pinafore,PROD-3178,1,2999,15,2549.15,2152.16,396.99,Ritika Shah,UPI,No
+ORD-20436,26-Jan-24,CUST-4126,Ritu Chauhan,Online,South,Hyderabad,Kidswear,School Uniforms,School Pinafore,PROD-3021,6,4999,5,28494.3,24594.93,3899.37,Fatima Sheikh,Card,No
+ORD-20150,16-Aug-23,CUST-4421,Karan Chauhan,Retail,West,Pune,Accessories,Belts,Canvas Belt,PROD-3167,2,1999,0,3998,2918.11,1079.89,Amitabh Roy,Credit,Yes
+ORD-20254,25/05/2023,CUST-4346,Vikram Malhotra,Online,North,Delhi,Accessories,Bags,Sling Bag,PROD-3080,4,5999,10,21596.4,16117.87,5478.53,Fatima Sheikh,UPI,No
+ORD-20111,10/6/2023,CUST-4208,Simran Malhotra,Wholesale,South,Hyderabad,Footwear,Sandals,Sports Sandals,PROD-3015,1,5999,5,5699.05,4354.42,1344.63,Ritika Shah,Card,No
+ORD-20455,4-Sep-23,CUST-4189,Suresh Bose,Online,South,Kochi,Menswear,Shirts,Cotton Formal Shirt,PROD-3033,2,1499,20,2398.4,1681.95,716.45,Ashwin Kumar,Credit,YES
+ORD-20141,10/11/2023,CUST-4298,Divya Chauhan,Online,West,Mumbai,Footwear,Sneakers,Running Sneakers,PROD-3196,2,2499,5,4748.1,5917.22,-1169.12,Preeti Kaur,Credit,YES
+ORD-20381,26-Feb-24,CUST-4043,Nikhil Iyer,Wholesale,North,Lucknow,Womenswear,Dresses,Party Gown,PROD-3083,1,3499,25,2624.25,2349.62,274.63,Trisha Sen,UPI,No
+ORD-20273,11-Nov-23,CUST-4277,Nisha Malhotra,Retail,South,Hyderabad,Footwear,Boots,Chelsea Boots,PROD-3153,5,1299,0,6495,4952.15,1542.85,Lakshmi Menon,UPI,No
+ORD-20159,11-Jun-23,CUST-4301,Manish Chatterjee,Wholesale,West,Ahmedabad,Womenswear,Tops,Printed Top,PROD-3165,1,1499,20,1199.2,947.85,251.35,Lakshmi Menon,Cash,No
+ORD-20287,28-Apr-23,CUST-4317,Nikhil Reddy,Wholesale,North,Lucknow,Menswear,Jackets,Bomber Jacket,PROD-3120,1,2499,5,2374.05,2008.46,365.59,Fatima Sheikh,UPI,No
+ORD-20018,9-Jan-24,CUST-4144,Rajesh Mehta,Online,East,Bhubaneswar,Footwear,Boots,Chelsea Boots,PROD-3013,1,2999,10,2699.1,1532.1,1167,Sonal Desai,UPI,No
+ORD-20279,9-Sep-23,CUST-4166,Deepak Bose,Wholesale,West,Ahmedabad,Kidswear,Girls Wear,Girls Frock,PROD-3096,5,1999,10,8995.5,8407.74,587.76,Trisha Sen,Cash,No
+ORD-20146,10-Jul-23,CUST-4134,Vikram Malhotra,Online,East,Guwahati,Kidswear,School Uniforms,School Shirt Set,PROD-3089,3,3499,20,8397.6,5198.21,3199.39,Lakshmi Menon,Cash,No
+ORD-20076,16-Feb-24,CUST-4386,Kavya Bansal,Wholesale,East,Patna,Womenswear,Leggings,Ankle Leggings,PROD-3120,4,1999,10,7196.4,5660.46,1535.94,Amitabh Roy,UPI,No
+ORD-20408,11-May-23,CUST-4244,Arjun Reddy,Retail,East,Bhubaneswar,Kidswear,School Uniforms,School Pinafore,PROD-3145,1,4999,0,4999,4583.69,415.31,Fatima Sheikh,Credit,No
+ORD-20256,8-Feb-24,CUST-4095,Siddharth Singh,Retail,East,Guwahati,Kidswear,Infant Wear,Infant Onesie,PROD-3047,4,2999,5,11396.2,8178.34,3217.86,Gurpreet Singh,Credit,No
+ORD-20328,18-Jun-23,CUST-4385,Rahul Chatterjee,Retail,West,Pune,Womenswear,Sarees,Silk Saree,PROD-3164,3,999,0,2997,1849.27,1147.73,Lakshmi Menon,Credit,No
+ORD-20152,28-Aug-23,CUST-4136,Deepak Pillai,Online,North,Chandigarh,Accessories,Belts,Reversible Belt,PROD-3167,2,1299,5,2468.1,1501.83,966.27,Farhan Khan,Credit,No
+ORD-20075,10-May-23,CUST-4058,Pooja Pillai,Retail,East,Patna,Womenswear,Tops,Crop Top,PROD-3037,3,1499,5,4272.15,3379.1,893.05,Preeti Kaur,Cash,No
+ORD-20421,10-Jun-23,CUST-4211,Nikhil Rao,Wholesale,East,Kolkata,Accessories,Watches,Analog Watch,PROD-3183,5,999,0,4995,3423.18,1571.82,Sonal Desai,Credit,No
+ORD-20236,16-Jun-23,CUST-4114,Pallavi Bansal,Online,East,Bhubaneswar,Accessories,Belts,Reversible Belt,PROD-3093,5,799,25,2996.25,1934.24,1062.01,Ashwin Kumar,Card,No
+ORD-20276,25-Mar-24,CUST-4025,Karan Joshi,Online,North,Delhi,Womenswear,Leggings,Ankle Leggings,PROD-3119,6,799,10,4314.6,3336.08,978.52,Trisha Sen,UPI,No
+ORD-20450,28-Feb-24,CUST-4159,Kavya Chauhan,Retail,South,Kochi,Footwear,Sandals,Wedge Sandals,PROD-3094,1,4999,20,3999.2,3251.63,747.57,Farhan Khan,Cash,No
+ORD-20203,20-Apr-23,CUST-4374,Karan Sharma,Wholesale,South,Bengaluru,Menswear,Trousers,Chino Trousers,PROD-3177,3,1999,5,5697.15,3367.49,2329.66,Lakshmi Menon,Card,No
+ORD-20335,7-Aug-23,CUST-4009,Pallavi Malhotra,Retail,North,Delhi,Accessories,Bags,Tote Bag,PROD-3179,3,2999,20,7197.6,3969.34,3228.26,Vivek Anand,Credit,No
+ORD-20114,20-Dec-23,CUST-4205,Vikram Nair,Retail,South,Kochi,Footwear,Formal Shoes,Oxford Shoes,PROD-3066,4,1499,15,5096.6,4339.77,756.83,Lakshmi Menon,Cash,No
+ORD-20357,4/25/2023,CUST-4233,Rohan Kulkarni,Retail,East,Bhubaneswar,Womenswear,Tops,Crop Top,PROD-3060,1,799,,719.1,560.76,158.34,Gurpreet Singh,Card,No
+ORD-20065,4/16/2023,CUST-4433,Divya Rao,Online,North,Jaipur,Accessories,Belts,Leather Belt,PROD-3082,5,1299,0,6495,3900.1,2594.9,Ashwin Kumar,UPI,No
+ORD-20187,12-Nov-23,CUST-4115,Anjali Singh,Online,North,Chandigarh,Menswear,Shirts,Checked Slim Shirt,PROD-3088,5,2999,20,11996,7689.5,4306.5,Trisha Sen,Credit,YES
+ORD-20164,31-May-23,CUST-4015,Meera Rao,Wholesale,North,Lucknow,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3116,5,2499,0,12495,9369.3,3125.7,Gurpreet Singh,Card,No
+ORD-20217,7-Jul-23,CUST-4055,Ritu Rao,Retail,North,Jaipur,Accessories,Watches,Smart Watch,PROD-3001,5,799,20,3196,2953.5,242.5,Vivek Anand,Card,No
+ORD-20199,31-Mar-24,CUST-4273,Simran Malhotra,Online,East,Patna,Womenswear,Tops,Printed Top,PROD-3024,4,1299,25,3897,2546.54,1350.46,Sonal Desai,UPI,No
+ORD-20098,8-Jan-24,CUST-4320,Arjun Kulkarni,Online,North,Chandigarh,Kidswear,Girls Wear,Girls Frock,PROD-3168,5,5999,10,26995.5,23945.33,3050.17,Ritika Shah,Cash,No
+ORD-20275,23-Feb-24,CUST-4049,Pooja Iyer,Retail,South,Chennai,Menswear,Trousers,Chino Trousers,PROD-3124,2,999,0,1998,1555.25,442.75,Preeti Kaur,Credit,No
+ORD-20449,31/03/2024,CUST-4463,Kavya Reddy,Online,East,Patna,Accessories,Sunglasses,Sports Sunglasses,PROD-3158,4,1299,5,4936.2,5179.88,-243.68,,Credit,No
+ORD-20160,3-Mar-24,CUST-4105,Pooja Kulkarni,Online,South,Kochi,Footwear,Sneakers,Running Sneakers,PROD-3126,4,999,5,3796.2,2846.52,949.68,Fatima Sheikh,Cash,Y
+ORD-20001,2/22/2024,CUST-4125,Kabir Reddy,Online,North,Delhi,Kidswear,School Uniforms,School Shirt Set,PROD-3007,1,1499,,1424.05,1517.66,-93.61,Preeti Kaur,Credit,No
+ORD-20195,29-Nov-23,CUST-4179,Karan Gupta,Wholesale,North,Lucknow,Menswear,Ethnic Wear,Kurta Set,PROD-3041,5,1499,5,7120.25,5759.94,1360.31,Lakshmi Menon,Credit,No
+ORD-20161,9/10/2023,CUST-4187,Siddharth Gupta,Wholesale,North,Delhi,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3067,2,799,0,1598,1485.3,112.7,Lakshmi Menon,Credit,No
+ORD-20353,7/14/2023,CUST-4122,Siddharth Nair,Online,West,Pune,Womenswear,Sarees,Cotton Saree,PROD-3068,5,2999,10,13495.5,7716.51,5778.99,Vivek Anand,Credit,No
+ORD-20395,7/11/2023,CUST-4093,Divya Chatterjee,Online,South,Bengaluru,Menswear,Trousers,Chino Trousers,PROD-3118,2,1999,25,2998.5,3484.68,-486.18,Ashwin Kumar,UPI,No
+ORD-20294,6/7/2023,CUST-4013,Ritu Kulkarni,Online,East,Bhubaneswar,Kidswear,Girls Wear,Girls Frock,PROD-3175,1,2499,0,2499,2062.32,436.68,,Credit,No
+ORD-20307,17-Jan-24,CUST-4014,Anjali Gupta,Retail,East,Patna,Accessories,Sunglasses,Aviator Sunglasses,PROD-3165,2,3499,5,6648.1,5324.33,1323.77,Fatima Sheikh,UPI,No
+ORD-20386,1-Sep-23,CUST-4210,Meera Iyer,Online,South,Kochi,Footwear,Sandals,Sports Sandals,PROD-3041,3,5999,5,17097.15,12179.09,4918.06,,Cash,No
+ORD-20175,12-Dec-23,CUST-4281,Aman Verma,Retail,East,Guwahati,Womenswear,Leggings,Ankle Leggings,PROD-3164,5,1499,25,5621.25,5326.89,294.36,Ritika Shah,Credit,No
+ORD-20336,6-May-23,CUST-4001,Divya Malhotra,Retail, East ,Patna,Footwear,Boots,Ankle Boots,PROD-3161,6,999,10,5394.6,4120.67,1273.93,Amitabh Roy,Credit,No
+ORD-20058,10-Aug-23,CUST-4483,Aman Das,Online,East,Kolkata,Accessories,Belts,Leather Belt,PROD-3193,2,2999,20,4798.4,3341.17,1457.23,Ritika Shah,UPI,No
+ORD-20351,24-Nov-23,CUST-4447,Nisha Chatterjee,Retail,East,Guwahati,Menswear,Shirts,Linen Casual Shirt,PROD-3176,3,4999,0,14997,10027.53,4969.47,Manoj Tiwari,Card,No
+ORD-20149,14-Nov-23,CUST-4042,Kavya Sharma,Retail,East,Kolkata,Footwear,Formal Shoes,Loafers,PROD-3073,2,3499,20,5598.4,4741.89,856.51,Fatima Sheikh,Cash,No
+ORD-20344,2-Jan-24,CUST-4237,Ritu Mehta,Wholesale,North,Chandigarh,Menswear,Trousers,Cargo Pants,PROD-3121,4,1299,5,4936.2,5767.05,-830.85,Lakshmi Menon,Card,No
+ORD-20478,1-Feb-24,CUST-4227,Manish Patel,Retail,East,Patna,Menswear,Ethnic Wear,Sherwani,PROD-3073,1,1499,25,1124.25,767.31,356.94,Fatima Sheikh,Cash,Yes
+ORD-20319,20-Feb-24,CUST-4387,Ananya Reddy,Wholesale,East,Guwahati,Kidswear,School Uniforms,School Shirt Set,PROD-3052,6,2499,10,13494.6,10500.29,2994.31,Lakshmi Menon,Credit,No
+ORD-20374,27-Aug-23,CUST-4219,Priya Iyer,Wholesale,East,Bhubaneswar,Menswear,Ethnic Wear,Sherwani,PROD-3026,4,3499,20,11196.8,9107.69,2089.11,Sonal Desai,Credit,No
+ORD-20224,6/19/2023,CUST-4305,Vivaan Kulkarni,Online,East,Guwahati,Kidswear,Infant Wear,Infant Romper,PROD-3181,3,4999,5,14247.15,13289.67,957.48,Fatima Sheikh,Card,No
+ORD-20288,13-Feb-24,CUST-4072,Nisha Sharma,Wholesale,North,Lucknow,Womenswear,Dresses,A-Line Dress,PROD-3051,6,5999,10,32394.6,18504.9,13889.7,Ritika Shah,Cash,No
+ORD-20196,15/03/2024,CUST-4331,Rohan Kulkarni,Retail,South,Hyderabad,Kidswear,Infant Wear,Infant Onesie,PROD-3108,4,2499,15,8496.6,5529.58,2967.02,Preeti Kaur,Credit,No
+ORD-20481,13-Jul-23,CUST-4400,Aman Iyer,Wholesale,West,Surat,Womenswear,Leggings,Printed Leggings,PROD-3108,5,5999,25,22496.25,16273.16,6223.09,Vivek Anand,Cash,No
+ORD-20422,19-Apr-23,CUST-4328,Ananya Bansal,Retail,East,Guwahati,Accessories,Bags,Sling Bag,PROD-3190,3,2499,0,7497,6603.37,893.63,Ashwin Kumar,Card,No
+ORD-20034,15-Jan-24,CUST-4177,Siddharth Rao,Online,East,Kolkata,Kidswear,Infant Wear,Infant Romper,PROD-3107,4,999,15,3396.6,3173.49,223.11,Vivek Anand,Card,No
+ORD-20308,29-Oct-23,CUST-4028,Anjali Pillai,Wholesale,East,Kolkata,Womenswear,Sarees,Cotton Saree,PROD-3016,2,1999,0,3998,2741.27,1256.73,Fatima Sheikh,Card,No
+ORD-20295,9-Oct-23,CUST-4198,Aman Malhotra,Retail,South,Chennai,Womenswear,Dresses,A-Line Dress,PROD-3195,1,1999,15,1699.15,1085.79,613.36,Farhan Khan,Card,No
+ORD-20115,2-Oct-23,CUST-4031,Vikram Nair,Wholesale,East,Bhubaneswar,Accessories,Bags,Sling Bag,PROD-3030,6,1999,10,10794.6,8590.88,2203.72,Sonal Desai,Credit,No
+ORD-20171,1-Oct-23,CUST-4106,Neha Das,Wholesale,East,Kolkata,Menswear,Trousers,Cargo Pants,PROD-3077,6,5999,0,35994,22892.48,13101.52,Sonal Desai,Cash,No
+ORD-20047,3-Oct-23,CUST-4255,Simran Kapoor,Retail,South,Hyderabad,Kidswear,Girls Wear,Girls Leggings Set,PROD-3112,6,3499,0,20994,11789.13,9204.87,Farhan Khan,Card,No
+ORD-20252,5-May-23,CUST-4403,Kabir Joshi,Wholesale,West,Ahmedabad,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3063,3,999,,2547.45,2087.58,459.87,Amitabh Roy,Card,No
+ORD-20274,21-Feb-24,CUST-4375,Rohan Sharma,Online,East,Bhubaneswar,Footwear,Sneakers,High-Top Sneakers,PROD-3137,4,1499,20,4796.8,3949.16,847.64,Sonal Desai,UPI,No
+ORD-20070,19-Feb-24,CUST-4046,Manish Pillai,Retail,West,Surat,Accessories,Bags,Tote Bag,PROD-3094,3,2499,20,5997.6,4729.04,1268.56,Sonal Desai,Card,No
+ORD-20477,10-Feb-24,CUST-4063,Arjun Joshi,Online,West,Pune,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3035,3,3499,,9447.3,5959.4,3487.9,Preeti Kaur,Cash,No
+ORD-20366,18-Aug-23,CUST-4325,Nikhil Bose,Retail,East,Patna,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3196,6,1299,0,7794,6153.4,1640.6,Gurpreet Singh,UPI,No
+ORD-20132,9-Nov-23,CUST-4169,Kavya Nair,Online,North,Chandigarh,Womenswear,Leggings,Printed Leggings,PROD-3011,1,1999,20,1599.2,1972.8,-373.6,Gurpreet Singh,Cash,YES
+ORD-20113,8-Jun-23,CUST-4239,Sneha Mehta,Retail,East,Bhubaneswar,Accessories,Bags,Sling Bag,PROD-3047,1,2499,10,2249.1,1747.8,501.3,Sonal Desai,Credit,No
+ORD-20399,15-Dec-23,CUST-4154,Divya Bose,Retail,North,Chandigarh,Footwear,Formal Shoes,Loafers,PROD-3126,3,3499,5,9972.15,5842.28,4129.87,Trisha Sen,Card,No
+ORD-20197,4-Apr-23,CUST-4339,Anjali Bose,Online,East,Patna,Menswear,Ethnic Wear,Kurta Set,PROD-3086,3,2499,10,6747.3,4415.83,2331.47,Preeti Kaur,UPI,No
+ORD-20168,20-Feb-24,CUST-4449,Aarav Patel,Retail,West,Ahmedabad,Menswear,Trousers,Cargo Pants,PROD-3060,4,3499,0,13996,13142.58,853.42,Lakshmi Menon,Cash,No
+ORD-20083,12-Jul-23,CUST-4070,Deepak Singh,Retail,West,Ahmedabad,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3072,1,1299,10,1169.1,853.12,315.98,Trisha Sen,Cash,yes
+ORD-20015,12-May-23,CUST-4035,Rajesh Iyer,Online,South,Kochi,Menswear,Trousers,Cargo Pants,PROD-3152,1,5999,0,5999,4305.42,1693.58,Fatima Sheikh,UPI,Yes
+ORD-20223,9-Jul-23,CUST-4090,Vikram Iyer,Retail,South,Bengaluru,Accessories,Belts,Reversible Belt,PROD-3071,5,1999,5,9495.25,5833.61,3661.64,Ritika Shah,UPI,No
+ORD-20055,1-Sep-23,CUST-4217,Nisha Singh,Wholesale,East,Bhubaneswar,Accessories,Sunglasses,Aviator Sunglasses,PROD-3060,4,5999,10,21596.4,16843.57,4752.83,Lakshmi Menon,Cash,YES
+ORD-20046,21-Mar-24,CUST-4339,Divya Chauhan,Retail,West,Mumbai,Footwear,Sandals,Wedge Sandals,PROD-3029,4,4999,0,19996,16258.03,3737.97,,Cash,No
+ORD-20088,2/16/2024,CUST-4068,Vivaan Bose,Online, East ,Bhubaneswar,Accessories,Sunglasses,Sports Sunglasses,PROD-3046,2,999,25,1498.5,1289.42,209.08,Lakshmi Menon,Card,No
+ORD-20440,3-Apr-23,CUST-4344,Rohan Rao,Online,West,Surat,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3137,1,3499,25,2624.25,1572.89,1051.36,Trisha Sen,UPI,No
+ORD-20125,6-Jul-23,CUST-4300,Manish Chauhan,Retail,West,Pune,Footwear,Sandals,Flat Sandals,PROD-3054,2,999,25,1498.5,1423.32,75.18,Farhan Khan,Card,No
+ORD-20124,31-Oct-23,CUST-4068,Divya Joshi,Wholesale,South,Hyderabad,Menswear,Ethnic Wear,Nehru Jacket,PROD-3023,5,1499,0,7495,4927.1,2567.9,Ashwin Kumar,Cash,Yes
+ORD-20277,30-Apr-23,CUST-4136,Pooja Verma,Online,North,Lucknow,Menswear,Trousers,Cargo Pants,PROD-3024,1,1499,20,1199.2,844.4,354.8,Preeti Kaur,Card,No
+ORD-20340,28/01/2024,CUST-4058,Aman Kulkarni,Online,South,Bengaluru,Womenswear,Leggings,Printed Leggings,PROD-3188,6,2999,10,16194.6,9689.57,6505.03,Fatima Sheikh,Card,No
+ORD-20247,15-Nov-23,CUST-4486,Rohan Nair,Retail,West,Ahmedabad,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3099,6,799,0,4794,4215.37,578.63,Ashwin Kumar,Credit,No
+ORD-20060,2-Sep-23,CUST-4059,Ananya Verma,Retail,East,Guwahati,Menswear,Shirts,Cotton Formal Shirt,PROD-3137,2,2999,15,5098.3,3560.68,1537.62,Manoj Tiwari,Credit,No
+ORD-20229,17-Feb-24,CUST-4161,Aarav Chatterjee,Online,North,Delhi,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3179,1,2499,20,1999.2,1184.43,814.77,Lakshmi Menon,Cash,No
+ORD-20087,2-Aug-23,CUST-4095,Vikram Iyer,Online,East,Kolkata,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3120,1,2999,,2699.1,3242.59,-543.49,Gurpreet Singh,Card,No
+ORD-20240,3-Oct-23,CUST-4418,Ishaan Joshi,Wholesale,East,Kolkata,Accessories,Sunglasses,Wayfarer Sunglasses,PROD-3053,5,1299,25,4871.25,5017.01,-145.76,Ashwin Kumar,Card,No
+ORD-20281,22-Nov-23,CUST-4070,Sneha Bose,Online,South,Chennai,Footwear,Sandals,Flat Sandals,PROD-3146,4,5999,5,22796.2,19233.3,3562.9,Vivek Anand,Card,No
+ORD-20453,4-Jul-23,CUST-4003,Karan Sharma,Retail,East,Kolkata,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3074,4,1499,25,4497,3526.88,970.12,Ritika Shah,Cash,No
+ORD-20155,4/25/2023,CUST-4008,Ishaan Gupta,Wholesale,West,Mumbai,Accessories,Watches,Chronograph Watch,PROD-3033,6,1999,5,11394.3,10252.24,1142.06,Amitabh Roy,UPI,No
+ORD-20045,10-Mar-24,CUST-4295,Vivaan Gupta,Wholesale,West,Ahmedabad,Womenswear,Leggings,Jeggings,PROD-3125,1,3499,10,3149.1,2246.38,902.72,Amitabh Roy,Card,No
+ORD-20255,1/21/2024,CUST-4244,Siddharth Verma,Online,East,Guwahati,Womenswear,Leggings,Ankle Leggings,PROD-3178,5,3499,10,15745.5,16823.64,-1078.14,Ashwin Kumar,Cash,No
+ORD-20066,31-Jan-24,CUST-4232,Pooja Kulkarni,Wholesale,North,Delhi,Kidswear,Girls Wear,Girls Leggings Set,PROD-3115,2,2999,10,5398.2,4755.64,642.56,Manoj Tiwari,Cash,No
+ORD-20017,26-Sep-23,CUST-4450,Kabir Bose,Wholesale,South,Kochi,Kidswear,Infant Wear,Infant Romper,PROD-3170,5,1999,25,7496.25,4433.54,3062.71,Lakshmi Menon,Cash,Yes
+ORD-20259,2-Oct-23,CUST-4477,Suresh Singh,Wholesale,North,Jaipur,Menswear,Jackets,Windcheater,PROD-3155,2,5999,20,9598.4,7774.19,1824.21,Lakshmi Menon,UPI,No
+ORD-20293,14-Jun-23,CUST-4289,Nikhil Gupta,Wholesale,North,Delhi,Womenswear,Sarees,Silk Saree,PROD-3186,1,2499,15,2124.15,1984.97,139.18,Manoj Tiwari,UPI,No
+ORD-20434,3-Jul-23,CUST-4045,Ananya Das,Wholesale,South,Bengaluru,Kidswear,Infant Wear,Infant Romper,PROD-3006,6,799,10,4314.6,3046,1268.6,Trisha Sen,UPI,No
+ORD-20074,27-Jun-23,CUST-4316,Neha Bose,Retail,West,Mumbai,Womenswear,Leggings,Jeggings,PROD-3102,5,999,15,4245.75,3813.57,432.18,,UPI,No
+ORD-20100,30-Oct-23,CUST-4104,Meera Kulkarni,Retail,East,Patna,Footwear,Boots,Ankle Boots,PROD-3194,3,4999,20,11997.6,7108.26,4889.34,Amitabh Roy,UPI,No
+ORD-20373,12/23/2023,CUST-4360,Arjun Chauhan,Online,North,Delhi,Footwear,Boots,Ankle Boots,PROD-3098,3,3499,20,8397.6,7091.52,1306.08,,Card,No
+ORD-20465,24-May-23,CUST-4090,Vivaan Kulkarni,Wholesale,North,Chandigarh,Womenswear,Dresses,A-Line Dress,PROD-3072,2,1499,10,2698.2,2195.87,502.33,Ritika Shah,UPI,No
+ORD-20198,21-Dec-23,CUST-4460,Vivaan Kulkarni,Wholesale,East,Bhubaneswar,Menswear,Ethnic Wear,Nehru Jacket,PROD-3066,4,2999,15,10196.6,8612.99,1583.61,Ashwin Kumar,Card,No
+ORD-20410,26-Mar-24,CUST-4300,Manish Kapoor,Online,West,Ahmedabad,Footwear,Formal Shoes,Oxford Shoes,PROD-3047,1,5999,10,5399.1,4851.88,547.22,Fatima Sheikh,Cash,No
+ORD-20398,11/27/2023,CUST-4498,Nisha Chatterjee,Online,South,Kochi,Accessories,Bags,Tote Bag,PROD-3024,5,799,0,3995,2729.16,1265.84,,Cash,No
+ORD-20391,5-Mar-24,CUST-4027,Nisha Joshi,Wholesale,West,Ahmedabad,Footwear,Sneakers,High-Top Sneakers,PROD-3060,4,2999,0,11996,10963.33,1032.67,Lakshmi Menon,UPI,No
+ORD-20433,30-Dec-23,CUST-4205,Kavya Verma,Wholesale,North,Lucknow,Accessories,Watches,Smart Watch,PROD-3006,5,2499,15,10620.75,6933.98,3686.77,Amitabh Roy,Card,No
+ORD-20426,23-Dec-23,CUST-4053,Meera Pillai,Online,South,Hyderabad,Accessories,Belts,Leather Belt,PROD-3182,4,2999,0,11996,7040.45,4955.55,Sonal Desai,Credit,No
+ORD-20179,9-Feb-24,CUST-4066,Meera Gupta,Wholesale,North,Delhi,Womenswear,Tops,Crop Top,PROD-3134,3,999,10,2697.3,2243.66,453.64,Ashwin Kumar,Cash,No
+ORD-20042,16-Jul-23,CUST-4135,Vikram Iyer,Retail,South,Chennai,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3000,4,3499,25,10497,8266.64,2230.36,Farhan Khan,UPI,No
+ORD-20314,4/28/2023,CUST-4091,Nisha Kulkarni,Online,West,Ahmedabad,Footwear,Sandals,Flat Sandals,PROD-3182,6,4999,0,29994,28178.55,1815.45,Vivek Anand,Card,No
+ORD-20416,29-Aug-23,CUST-4199,Rahul Bose,Wholesale,South,Chennai,Footwear,Sneakers,High-Top Sneakers,PROD-3123,2,1299,5,2468.1,1511.77,956.33,Trisha Sen,Credit,No
+ORD-20431,14-Feb-24,CUST-4209,Divya Joshi,Wholesale,East,Kolkata,Accessories,Bags,Sling Bag,PROD-3022,2,799,20,1278.4,1025.33,253.07,Lakshmi Menon,Cash,No
+ORD-20311,19-Apr-23,CUST-4365,Deepak Pillai,Retail,North,Lucknow,Menswear,Shirts,Linen Casual Shirt,PROD-3119,1,999,20,799.2,684.49,114.71,Ritika Shah,UPI,No
+ORD-20120,24-Nov-23,CUST-4278,Rahul Chauhan,Wholesale,South,Chennai,Accessories,Bags,Tote Bag,PROD-3070,2,999,0,1998,1745.83,252.17,Ritika Shah,Card,No
+ORD-20228,7-May-23,CUST-4078,Aarav Kapoor,Online,East,Kolkata,Menswear,Shirts,Cotton Formal Shirt,PROD-3045,3,4999,0,14997,11697.43,3299.57,Lakshmi Menon,Credit,No
+ORD-20348,21-Feb-24,CUST-4463,Rohan Bansal,Online,South,Bengaluru,Accessories,Sunglasses,Aviator Sunglasses,PROD-3151,4,3499,10,12596.4,7001.1,5595.3,Farhan Khan,Card,No
+ORD-20167,9-Jan-24,CUST-4188,Priya Das,Online,East,Bhubaneswar,Accessories,Bags,Sling Bag,PROD-3126,2,4999,5,9498.1,5795.99,3702.11,Ritika Shah,Card,No
+ORD-20377,5-May-23,CUST-4013,Rohan Chatterjee,Online,East,Bhubaneswar,Footwear,Sneakers,Running Sneakers,PROD-3169,5,3499,15,14870.75,9380.06,5490.69,Vivek Anand,UPI,No
+ORD-20024,15-Sep-23,CUST-4151,Siddharth Reddy,Retail,West,Surat,Womenswear,Sarees,Cotton Saree,PROD-3140,1,1999,10,1799.1,1140.76,658.34,Ashwin Kumar,UPI,No
+ORD-20418,29-Sep-23,CUST-4394,Pallavi Chauhan,Wholesale,South,Bengaluru,Menswear,Ethnic Wear,Nehru Jacket,PROD-3193,1,999,,799.2,634.45,164.75,Amitabh Roy,Cash,No
+ORD-20325,30-Dec-23,CUST-4240,Neha Pillai,Wholesale,East,Guwahati,Footwear,Sandals,Wedge Sandals,PROD-3042,1,5999,25,4499.25,3021.82,1477.43,Lakshmi Menon,Cash,No
+ORD-20009,6-May-23,CUST-4272,Ritu Reddy,Retail,West,Pune,Footwear,Boots,Ankle Boots,PROD-3138,6,1499,25,6745.5,4551.1,2194.4,Preeti Kaur,UPI,No
+ORD-20165,23-May-23,CUST-4345,Manish Nair,Retail,North,Delhi,Menswear,Trousers,Chino Trousers,PROD-3120,3,2999,5,8547.15,5312.77,3234.38,Ritika Shah,Credit,No
+ORD-20327,4-Feb-24,CUST-4302,Manish Reddy,Online,West,Ahmedabad,Womenswear,Sarees,Georgette Saree,PROD-3060,4,1299,20,4156.8,3719.53,437.27,Amitabh Roy,Card,No
+ORD-20409,24-Nov-23,CUST-4291,Anjali Singh,Wholesale,East,Kolkata,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3189,6,3499,5,19944.3,17241.27,2703.03,,Cash,No
+ORD-20097,6-Jun-23,CUST-4466,Deepak Verma,Retail,South,Hyderabad,Womenswear,Tops,Printed Top,PROD-3181,2,2499,20,3998.4,3630.43,367.97,Lakshmi Menon,Card,No
+ORD-20339,31/12/2023,CUST-4473,Aditi Verma,Online,South,Kochi,Menswear,Ethnic Wear,Sherwani,PROD-3011,2,1299,0,2598,2833.61,-235.61,Amitabh Roy,Credit,No
+ORD-20212,8-Mar-24,CUST-4265,Pooja Kulkarni,Retail,West,Pune,Accessories,Bags,Sling Bag,PROD-3173,6,2999,5,17094.3,15138.94,1955.36,Ashwin Kumar,Cash,No
+ORD-20264,20-Nov-23,CUST-4325,Pallavi Bansal,Wholesale,East,Patna,Accessories,Watches,Analog Watch,PROD-3113,3,2499,15,6372.45,4167.09,2205.36,Ritika Shah,Card,No
+ORD-20244,3-Dec-23,CUST-4195,Karan Bansal,Online,North,Jaipur,Womenswear,Sarees,Cotton Saree,PROD-3196,2,999,10,1798.2,1419.35,378.85,Lakshmi Menon,Card,No
+ORD-20338,13-Apr-23,CUST-4303,Kabir Malhotra,Wholesale,North,Lucknow,Accessories,Sunglasses,Aviator Sunglasses,PROD-3009,3,799,10,2157.3,2259.09,-101.79,Preeti Kaur,Credit,yes
+ORD-20352,12-May-23,CUST-4171,Manish Verma,Online,East,Kolkata,Menswear,Ethnic Wear,Nehru Jacket,PROD-3119,5,799,10,3595.5,2504.53,1090.97,Manoj Tiwari,Cash,No
+ORD-20317,3-Dec-23,CUST-4174,Priya Bansal,Wholesale,West,Ahmedabad,Kidswear,Girls Wear,Girls Frock,PROD-3169,6,999,25,4495.5,4146.4,349.1,Vivek Anand,Cash,No
+ORD-20232,23-Jul-23,CUST-4129,Priya Nair,Retail,North,Jaipur,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3171,1,1999,0,1999,1257.31,741.69,Gurpreet Singh,UPI,No
+ORD-20189,25-Jun-23,CUST-4413,Priya Reddy,Retail,West,Mumbai,Accessories,Watches,Chronograph Watch,PROD-3037,5,1999,10,8995.5,8224.78,770.72,Amitabh Roy,Cash,No
+ORD-20128,7-Dec-23,CUST-4328,Manish Malhotra,Wholesale,South,Hyderabad,Womenswear,Tops,Off-Shoulder Top,PROD-3139,4,1299,20,4156.8,3932.87,223.93,Fatima Sheikh,Cash,No
+ORD-20476,21/03/2024,CUST-4325,Ritu Patel,Online,West,Mumbai,Footwear,Sneakers,High-Top Sneakers,PROD-3149,4,2999,20,9596.8,7737.29,1859.51,Ashwin Kumar,Cash,No
+ORD-20359,30-Aug-23,CUST-4148,Ritu Bansal,Online,South,Kochi,Footwear,Sneakers,High-Top Sneakers,PROD-3122,1,1299,25,974.25,750.55,223.7,Trisha Sen,Card,No
+ORD-20144,1/9/2023,CUST-4011,Deepak Patel,Online,North,Chandigarh,Womenswear,Tops,Off-Shoulder Top,PROD-3040,3,4999,15,12747.45,11898.28,849.17,Trisha Sen,Card,No
+ORD-20272,25-Feb-24,CUST-4274,Suresh Nair,Retail,West,Pune,Footwear,Sandals,Wedge Sandals,PROD-3187,2,799,25,1198.5,840.28,358.22,Lakshmi Menon,Cash,No
+ORD-20063,29-Jul-23,CUST-4075,Suresh Kulkarni,Retail,East,Bhubaneswar,Womenswear,Sarees,Silk Saree,PROD-3028,6,799,5,4554.3,2531.94,2022.36,Farhan Khan,UPI,No
+ORD-20435,1/6/2023,CUST-4385,Rajesh Bansal,Retail,West,Surat,Menswear,Jackets,Denim Jacket,PROD-3081,4,4999,15,16996.6,19813.18,-2816.58,Ritika Shah,UPI,No
+ORD-20014,10-Jan-24,CUST-4249,Ananya Mehta,Wholesale,South,Bengaluru,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3014,1,5999,15,5099.15,3830.18,1268.97,Sonal Desai,Cash,YES
+ORD-20072,20-Oct-23,CUST-4028,Aarav Mehta,Wholesale,South,Chennai,Footwear,Sandals,Wedge Sandals,PROD-3030,1,3499,25,2624.25,1895.4,728.85,Fatima Sheikh,Card,No
+ORD-20372,21-May-23,CUST-4471,Pooja Malhotra,Wholesale,South,Kochi,Menswear,Trousers,Formal Trousers,PROD-3097,4,1499,20,4796.8,3074.85,1721.95,Gurpreet Singh,Cash,No
+ORD-20206,18-Jun-23,CUST-4351,Simran Sharma,Wholesale,West,Mumbai,Kidswear,Infant Wear,Infant Romper,PROD-3107,1,4999,25,3749.25,2988.45,760.8,Amitabh Roy,Credit,No
+ORD-20358,3/28/2024,CUST-4176,Ananya Bose,Wholesale,South,Hyderabad,Menswear,Shirts,Linen Casual Shirt,PROD-3127,2,3499,,6298.2,3857.15,2441.05,Fatima Sheikh,UPI,No
+ORD-20234,8-Sep-23,CUST-4113,Nisha Rao,Wholesale,East,Bhubaneswar,Footwear,Boots,Chelsea Boots,PROD-3114,3,1999,15,5097.45,3928.45,1169,Ashwin Kumar,Cash,No
+ORD-20002,27-Jan-24,CUST-4445,Aarav Gupta,Online,West,Ahmedabad,Footwear,Formal Shoes,Oxford Shoes,PROD-3195,3,999,0,2997,2103.81,893.19,Gurpreet Singh,UPI,No
+ORD-20451,10-Jul-23,CUST-4327,Nikhil Mehta,Retail,East,Bhubaneswar,Accessories,Sunglasses,Sports Sunglasses,PROD-3177,3,5999,20,14397.6,13465.01,932.59,Trisha Sen,UPI,No
+ORD-20170,9-Sep-23,CUST-4201,Nisha Patel,Wholesale,West,Ahmedabad,Womenswear,Dresses,Floral Maxi Dress,PROD-3034,5,999,5,4745.25,2810.44,1934.81,Gurpreet Singh,Credit,No
+ORD-20183,9-Dec-23,CUST-4179,Siddharth Chatterjee,Retail,West,Pune,Womenswear,Leggings,Ankle Leggings,PROD-3008,3,799,10,2157.3,1411.85,745.45,Gurpreet Singh,Card,Yes
+ORD-20030,18-Aug-23,CUST-4014,Divya Patel,Online,West,Pune,Accessories,Watches,Chronograph Watch,PROD-3136,1,2999,20,2399.2,2801.86,-402.66,Sonal Desai,Credit,No
+ORD-20313,7-Jan-24,CUST-4072,Nisha Das,Online,South,Chennai,Menswear,Jackets,Windcheater,PROD-3086,5,3499,0,17495,10532.51,6962.49,Preeti Kaur,Cash,No
+ORD-20463,5-Jun-23,CUST-4377,Aarav Malhotra,Online,East,Patna,Womenswear,Leggings,Printed Leggings,PROD-3175,4,4999,10,17996.4,21607.06,-3610.66,Sonal Desai,Card,YES
+ORD-20205,27-Jan-24,CUST-4063,Karan Verma,Wholesale,East,Kolkata,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3167,1,799,25,599.25,357.34,241.91,Amitabh Roy,UPI,No
+ORD-20469,19-May-23,CUST-4484,Vivaan Joshi,Retail,East,Patna,Menswear,Trousers,Formal Trousers,PROD-3105,5,999,10,4495.5,2610.15,1885.35,Gurpreet Singh,Credit,No
+ORD-20185,31-Aug-23,CUST-4025,Divya Bansal,Online,West,Pune,Menswear,Jackets,Denim Jacket,PROD-3109,1,1999,25,1499.25,1199.45,299.8,Amitabh Roy,Cash,No
+ORD-20123,9-Mar-24,CUST-4268,Meera Rao,Wholesale,South,Hyderabad,Accessories,Watches,Chronograph Watch,PROD-3121,2,1499,10,2698.2,2409.54,288.66,Vivek Anand,Cash,No
+ORD-20419,25-Jun-23,CUST-4445,Priya Bose,Retail,East,Guwahati,Kidswear,School Uniforms,School Shirt Set,PROD-3039,6,2499,10,13494.6,11843.73,1650.87,Farhan Khan,Credit,YES
+ORD-20162,23/10/2023,CUST-4142,Aditi Das,Retail,South,Chennai,Kidswear,Infant Wear,Infant Onesie,PROD-3150,6,999,10,5394.6,4474.66,919.94,Farhan Khan,Cash,No
+ORD-20459,8-Jun-23,CUST-4151,Neha Pillai,Wholesale,South,Bengaluru,Accessories,Bags,Backpack,PROD-3115,4,2999,15,10196.6,7107.08,3089.52,Lakshmi Menon,Credit,No
+ORD-20350,2/8/2023,CUST-4354,Manish Rao,Retail,South,Hyderabad,Footwear,Formal Shoes,Loafers,PROD-3023,1,3499,25,2624.25,1763.32,860.93,Ashwin Kumar,Cash,YES
+ORD-20190,21-Oct-23,CUST-4438,Sneha Pillai,Wholesale,North,Jaipur,Menswear,Ethnic Wear,Kurta Set,PROD-3037,5,5999,20,23996,20477.01,3518.99,Amitabh Roy,Cash,No
+ORD-20428,21/11/2023,CUST-4355,Priya Kapoor,Wholesale,North,Chandigarh,Kidswear,Infant Wear,Infant Romper,PROD-3154,4,999,0,3996,2788.55,1207.45,Fatima Sheikh,Card,No
+ORD-20220,28-Sep-23,CUST-4298,Kavya Rao,Online,East,Guwahati,Menswear,Shirts,Cotton Formal Shirt,PROD-3097,2,799,25,1198.5,686.31,512.19,Sonal Desai,UPI,No
+ORD-20310,9-Oct-23,CUST-4398,Priya Iyer,Wholesale,North,Jaipur,Kidswear,Girls Wear,Girls Frock,PROD-3087,4,4999,10,17996.4,15480.74,2515.66,Amitabh Roy,Card,No
+ORD-20173,7/23/2023,CUST-4190,Vikram Iyer,Online,East,Kolkata,Menswear,Shirts,Cotton Formal Shirt,PROD-3165,4,1299,0,5196,4738.91,457.09,Gurpreet Singh,Cash,No
+ORD-20388,29-Apr-23,CUST-4042,Meera Kulkarni,Wholesale,North,Jaipur,Footwear,Sneakers,Canvas Sneakers,PROD-3185,2,1499,0,2998,2333.61,664.39,Amitabh Roy,UPI,No
+ORD-20243,2/5/2024,CUST-4461,Rajesh Kulkarni,Retail,North,Delhi,Accessories,Watches,Chronograph Watch,PROD-3138,1,2999,20,2399.2,1723.28,675.92,Manoj Tiwari,Credit,No
+ORD-20454,24-Aug-23,CUST-4453,Sneha Gupta,Wholesale,South,Chennai,Womenswear,Dresses,Floral Maxi Dress,PROD-3067,1,799,25,599.25,362.48,236.77,Amitabh Roy,UPI,Yes
+ORD-20448,1-Feb-24,CUST-4319,Aarav Kapoor,Wholesale,West,Surat,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3166,6,799,15,4074.9,3084.23,990.67,Amitabh Roy,Cash,No
+ORD-20452,19-Nov-23,CUST-4466,Vivaan Malhotra,Retail,North,Chandigarh,Womenswear,Leggings,Jeggings,PROD-3054,2,3499,25,5248.5,4499.75,748.75,Manoj Tiwari,Credit,No
+ORD-20267,21-Feb-24,CUST-4231,Sneha Kulkarni,Wholesale,South,Hyderabad,Menswear,Trousers,Chino Trousers,PROD-3136,1,1299,0,1299,861.04,437.96,Vivek Anand,Cash,No
+ORD-20309,17-Oct-23,CUST-4059,Deepak Das,Online,East,Kolkata,Footwear,Boots,Ankle Boots,PROD-3127,2,2499,15,4248.3,3746.08,502.22,Fatima Sheikh,UPI,No
+ORD-20193,31-Oct-23,CUST-4045,Priya Kapoor,Retail,West,Surat,Kidswear,Infant Wear,Infant Romper,PROD-3131,2,999,10,1798.2,1499.39,298.81,Fatima Sheikh,Cash,No
+ORD-20446,29-Nov-23,CUST-4174,Anjali Verma,Wholesale,South,Bengaluru,Kidswear,School Uniforms,School Shirt Set,PROD-3160,4,5999,0,23996,14018.8,9977.2,,Credit,No
+ORD-20406,29-Feb-24,CUST-4152,Aman Rao,Online,East,Bhubaneswar,Footwear,Sneakers,Canvas Sneakers,PROD-3131,2,3499,15,5948.3,5378.25,570.05,Ashwin Kumar,Credit,No
+ORD-20268,17/06/2023,CUST-4175,Rahul Das,Wholesale,East,Guwahati,Menswear,Jackets,Denim Jacket,PROD-3192,2,799,10,1438.2,1237.23,200.97,Vivek Anand,Card,No
+ORD-20425,28-Feb-24,CUST-4229,Arjun Bansal,Online,North,Jaipur,Footwear,Formal Shoes,Loafers,PROD-3148,5,4999,20,19996,12868.13,7127.87,Preeti Kaur,Card,No
+ORD-20050,24-Sep-23,CUST-4390,Siddharth Chatterjee,Wholesale,East,Bhubaneswar,Womenswear,Leggings,Ankle Leggings,PROD-3198,4,799,,2876.4,2438.85,437.55,Trisha Sen,Credit,Y
+ORD-20022,22-Oct-23,CUST-4431,Siddharth Patel,Retail,North,Lucknow,Womenswear,Sarees,Silk Saree,PROD-3027,5,2999,10,13495.5,11355.36,2140.14,Ashwin Kumar,Cash,No
+ORD-20405,25-Apr-23,CUST-4144,Meera Verma,Online,North,Jaipur,Menswear,Ethnic Wear,Nehru Jacket,PROD-3045,2,2999,0,5998,3348.11,2649.89,Trisha Sen,Credit,No
+ORD-20299,30-Mar-24,CUST-4451,Neha Iyer,Wholesale,East,Bhubaneswar,Menswear,Shirts,Cotton Formal Shirt,PROD-3180,4,2499,0,9996,7592.23,2403.77,Fatima Sheikh,Card,No
+ORD-20341,19-Jul-23,CUST-4303,Rohan Patel,Retail,North,Lucknow,Womenswear,Leggings,Ankle Leggings,PROD-3178,3,4999,5,14247.15,10335.8,3911.35,Ritika Shah,Card,No
+ORD-20004,20-Feb-24,CUST-4083,Karan Bose,Retail,East,Kolkata,Kidswear,Girls Wear,Girls Frock,PROD-3041,4,2999,,10796.4,10211.34,585.06,Fatima Sheikh,Card,No
+ORD-20385,16-Feb-24,CUST-4441,Rohan Bansal,Wholesale,South,Kochi,Footwear,Boots,Combat Boots,PROD-3186,6,799,20,3835.2,2417.17,1418.03,Farhan Khan,Card,No
+ORD-20137,14-May-23,CUST-4286,Pallavi Joshi,Online,South,Kochi,Womenswear,Tops,Printed Top,PROD-3077,3,3499,5,9972.15,5737.05,4235.1,Trisha Sen,UPI,No
+ORD-20032,28/02/2024,CUST-4486,Kabir Mehta,Retail,South,Chennai,Womenswear,Leggings,Jeggings,PROD-3029,5,1499,15,6370.75,5286.36,1084.39,Sonal Desai,Cash,No
+ORD-20005,29-Apr-23,CUST-4016,Suresh Patel,Wholesale,East,Kolkata,Womenswear,Sarees,Silk Saree,PROD-3167,4,2999,25,8997,6599.67,2397.33,Farhan Khan,UPI,No
+ORD-20052,14-Aug-23,CUST-4354,Divya Iyer,Wholesale,West,Ahmedabad,Accessories,Belts,Canvas Belt,PROD-3017,2,1999,5,3798.1,3223.47,574.63,Amitabh Roy,Cash,No
+ORD-20390,9-Oct-23,CUST-4057,Meera Chauhan,Wholesale,West,Pune,Footwear,Formal Shoes,Derby Shoes,PROD-3121,6,2499,10,13494.6,7535.79,5958.81,Ashwin Kumar,Cash,No
+ORD-20345,19-Sep-23,CUST-4455,Ritu Kapoor,Retail,North,Delhi,Kidswear,Girls Wear,Girls Frock,PROD-3007,4,4999,0,19996,11564.56,8431.44,Vivek Anand,UPI,No
+ORD-20249,1-Feb-24,CUST-4357,Kabir Kulkarni,Retail,North,Lucknow,Womenswear,Dresses,Floral Maxi Dress,PROD-3022,3,2999,10,8097.3,6622.5,1474.8,Farhan Khan,Cash,No
+ORD-20245,4-Apr-23,CUST-4060,Pooja Sharma,Wholesale,South,Hyderabad,Accessories,Bags,Tote Bag,PROD-3039,4,5999,10,21596.4,14135.3,7461.1,Ashwin Kumar,UPI,No
+ORD-20121,22-May-23,CUST-4228,Rajesh Verma,Retail,North,Jaipur,Accessories,Watches,Chronograph Watch,PROD-3055,1,1299,20,1039.2,984.53,54.67,Manoj Tiwari,UPI,No
+ORD-20300,12/10/2023,CUST-4467,Meera Bansal,Online,South,Chennai,Womenswear,Tops,Off-Shoulder Top,PROD-3013,4,1999,10,7196.4,6059.83,1136.57,Lakshmi Menon,Card,No
+ORD-20016,14-Jul-23,CUST-4160,Kabir Singh,Wholesale,South,Hyderabad,Accessories,Bags,Tote Bag,PROD-3002,4,5999,20,19196.8,18206.99,989.81,Farhan Khan,UPI,No
+ORD-20176,1-Oct-23,CUST-4400,Aman Bose,Online,East,Guwahati,Footwear,Formal Shoes,Oxford Shoes,PROD-3081,5,1499,0,7495,6807.75,687.25,Ritika Shah,Credit,No
+ORD-20033,23-Jun-23,CUST-4055,Kavya Sharma,Wholesale,West,Surat,Womenswear,Dresses,Party Gown,PROD-3176,6,1499,0,8994,7454.92,1539.08,Preeti Kaur,Cash,No
+ORD-20142,17-Sep-23,CUST-4220,Ishaan Sharma,Retail,East,Bhubaneswar,Kidswear,Girls Wear,Girls Leggings Set,PROD-3095,4,3499,25,10497,8244.72,2252.28,Gurpreet Singh,Cash,No
+ORD-20064,8/14/2023,CUST-4269,Ishaan Iyer,Wholesale,West,Ahmedabad,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3128,2,5999,0,11998,10089.08,1908.92,Preeti Kaur,UPI,No
+ORD-20194,12-Jul-23,CUST-4127,Vivaan Kapoor,Retail,East,Bhubaneswar,Footwear,Sandals,Wedge Sandals,PROD-3129,4,999,25,2997,1684.99,1312.01,Ashwin Kumar,Credit,No
+ORD-20044,26-Nov-23,CUST-4358,Divya Singh,Online,West,Surat,Menswear,Shirts,Linen Casual Shirt,PROD-3188,3,5999,10,16197.3,9076.09,7121.21,Preeti Kaur,Cash,Y
+ORD-20151,31-May-23,CUST-4121,Priya Bansal,Online,East,Guwahati,Womenswear,Tops,Crop Top,PROD-3052,1,5999,10,5399.1,4119.04,1280.06,Sonal Desai,UPI,YES
+ORD-20041,31-May-23,CUST-4213,Rajesh Kulkarni,Online,South,Kochi,Accessories,Sunglasses,Wayfarer Sunglasses,PROD-3150,4,1999,20,6396.8,5107.28,1289.52,Manoj Tiwari,Cash,yes
+ORD-20086,26-Aug-23,CUST-4062,Vivaan Joshi,Wholesale,West,Mumbai,Menswear,Ethnic Wear,Sherwani,PROD-3137,1,4999,20,3999.2,2586.58,1412.62,Trisha Sen,Cash,No
+ORD-20326,22-Jan-24,CUST-4026,Vikram Das,Online,North,Lucknow,Accessories,Belts,Leather Belt,PROD-3129,1,1999,10,1799.1,1084.89,714.21,,Cash,No
+ORD-20445,25-Jul-23,CUST-4216,Aditi Joshi,Retail,South,Hyderabad,Footwear,Sneakers,High-Top Sneakers,PROD-3160,1,799,15,679.15,817.26,-138.11,Gurpreet Singh,UPI,No
+ORD-20056,3-Mar-24,CUST-4004,Kavya Verma,Online,West,Ahmedabad,Womenswear,Sarees,Silk Saree,PROD-3162,2,5999,10,10798.2,8866.46,1931.74,,Card,No
+ORD-20320,24-Sep-23,CUST-4298,Aarav Kulkarni,Online,West,Pune,Footwear,Sneakers,Canvas Sneakers,PROD-3140,1,799,25,599.25,463.83,135.42,Amitabh Roy,UPI,Yes
+ORD-20468,20/01/2024,CUST-4147,Simran Kapoor,Wholesale,East,Guwahati,Kidswear,Girls Wear,Girls Leggings Set,PROD-3063,2,5999,25,8998.5,6504.39,2494.11,Preeti Kaur,Card,No
+ORD-20321,30-Jul-23,CUST-4302,Divya Patel,Online,West,Surat,Accessories,Sunglasses,Sports Sunglasses,PROD-3054,6,1299,15,6624.9,4012.22,2612.68,Gurpreet Singh,Credit,No
+ORD-20226,25-Sep-23,CUST-4463,Simran Kulkarni,Online,South,Bengaluru,Footwear,Boots,Ankle Boots,PROD-3098,3,4999,25,11247.75,7458.74,3789.01,Gurpreet Singh,Credit,No
+ORD-20210,18-Aug-23,CUST-4353,Deepak Malhotra,Wholesale,South,Bengaluru,Womenswear,Dresses,Floral Maxi Dress,PROD-3026,4,5999,15,20396.6,17763.52,2633.08,Sonal Desai,Credit,No
+ORD-20447,21/03/2024,CUST-4031,Nikhil Kapoor,Retail,East,Guwahati,Menswear,Shirts,Checked Slim Shirt,PROD-3014,5,799,10,3595.5,3199.89,395.61,Ashwin Kumar,Credit,No
+ORD-20462,17-Jul-23,CUST-4264,Kavya Chauhan,Wholesale,West,Ahmedabad,Menswear,Jackets,Denim Jacket,PROD-3109,6,2999,5,17094.3,12401.44,4692.86,Ritika Shah,UPI,No
+ORD-20133,1/26/2024,CUST-4475,Aditi Das,Retail,South,Kochi,Kidswear,Infant Wear,Infant Onesie,PROD-3193,6,1299,25,5845.5,4908.26,937.24,Gurpreet Singh,Cash,No
+ORD-20099,23-Feb-24,CUST-4135,Simran Mehta,Online,West,Mumbai,Accessories,Bags,Sling Bag,PROD-3077,4,1499,25,4497,3203.83,1293.17,Manoj Tiwari,Cash,No
+ORD-20389,17-May-23,CUST-4062,Ritu Patel,Wholesale,West,Pune,Accessories,Watches,Analog Watch,PROD-3027,2,1499,10,2698.2,1958.33,739.87,Ashwin Kumar,Cash,No
+ORD-20415,25-Feb-24,CUST-4357,Rahul Sharma,Retail,East,Bhubaneswar,Accessories,Bags,Backpack,PROD-3059,5,1499,20,5996,5478.11,517.89,Ashwin Kumar,Credit,No
+ORD-20338,13-Apr-23,CUST-4303,Kabir Malhotra,Wholesale,North,Lucknow,Accessories,Sunglasses,Aviator Sunglasses,PROD-3009,3,799,10,2157.3,2259.09,-101.79,Preeti Kaur,Credit,yes
+ORD-20384,8/18/2023,CUST-4218,Priya Bose,Retail,East,Patna,Accessories,Bags,Tote Bag,PROD-3106,4,1999,,6396.8,4836.93,1559.87,Fatima Sheikh,Card,Yes
+ORD-20031,12-Aug-23,CUST-4108,Neha Patel,Wholesale,West,Ahmedabad,Accessories,Bags,Tote Bag,PROD-3120,1,4999,0,4999,4748.87,250.13,Preeti Kaur,Cash,No
+ORD-20103,5-Oct-23,CUST-4187,Vivaan Chatterjee,Retail,South,Hyderabad,Kidswear,Infant Wear,Infant Romper,PROD-3098,5,3499,20,13996,9263.79,4732.21,Preeti Kaur,Cash,No
+ORD-20376,24-Feb-24,CUST-4182,Aman Kulkarni,Wholesale,West,Ahmedabad,Womenswear,Leggings,Ankle Leggings,PROD-3031,3,3499,15,8922.45,5731.15,3191.3,Ritika Shah,Cash,No
+ORD-20109,12-Jan-24,CUST-4407,Manish Singh,Wholesale,North,Jaipur,Accessories,Bags,Tote Bag,PROD-3074,1,1999,25,1499.25,871.98,627.27,Preeti Kaur,UPI,No
+ORD-20417,17-Jul-23,CUST-4009,Karan Singh,Wholesale,South,Chennai,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3086,4,999,20,3196.8,2048.11,1148.69,,UPI,Y
+ORD-20291,15-Feb-24,CUST-4198,Pallavi Sharma,Online,East,Bhubaneswar,Womenswear,Sarees,Cotton Saree,PROD-3168,2,999,25,1498.5,1053.27,445.23,Ashwin Kumar,Card,No
+ORD-20231,6-Apr-23,CUST-4284,Ananya Nair,Retail,North,Jaipur,Kidswear,Boys Wear,Boys Denim Shorts,PROD-3053,6,2499,5,14244.3,10185.55,4058.75,Fatima Sheikh,Card,No
+ORD-20057,16-Feb-24,CUST-4158,Suresh Kapoor,Retail,East,Bhubaneswar,Menswear,Jackets,Bomber Jacket,PROD-3191,4,1299,5,4936.2,2975.86,1960.34,Gurpreet Singh,UPI,No
+ORD-20085,6/10/2023,CUST-4356,Anjali Reddy,Online,West,Surat,Kidswear,Boys Wear,Boys T-Shirt Set,PROD-3004,3,1499,5,4272.15,3287.51,984.64,Fatima Sheikh,Credit,No
+ORD-20258,17-Feb-24,CUST-4368,Meera Malhotra,Wholesale,East,Kolkata,Accessories,Belts,Canvas Belt,PROD-3041,1,1499,10,1349.1,999.16,349.94,Vivek Anand,UPI,No
+ORD-20094,26-Mar-24,CUST-4313,Arjun Malhotra,Retail,North,Chandigarh,Menswear,Ethnic Wear,Kurta Set,PROD-3182,4,999,25,2997,2808.26,188.74,Preeti Kaur,UPI,No
+ORD-20250,6-May-23,CUST-4281,Arjun Chauhan,Online,East,Patna,Footwear,Formal Shoes,Loafers,PROD-3049,4,2999,20,9596.8,5296.1,4300.7,Fatima Sheikh,Cash,No
+ORD-20102,19-Oct-23,CUST-4494,Kabir Mehta,Online,East,Kolkata,Menswear,Jackets,Bomber Jacket,PROD-3152,6,3499,10,18894.6,14448.25,4446.35,Trisha Sen,Card,Yes
+ORD-20069,10/6/2023,CUST-4293,Kabir Rao,Online,North,Lucknow,Menswear,Trousers,Formal Trousers,PROD-3179,3,2499,10,6747.3,3727.49,3019.81,Ashwin Kumar,Credit,No
+ORD-20361,2-Oct-23,CUST-4366,Deepak Rao,Wholesale,West,Ahmedabad,Menswear,Jackets,Bomber Jacket,PROD-3089,3,3499,20,8397.6,4912.93,3484.67,Vivek Anand,Credit,No
+ORD-20096,8/1/2024,CUST-4033,Arjun Chatterjee,Online,West,Surat,Accessories,Belts,Leather Belt,PROD-3081,6,999,15,5094.9,3751.54,1343.36,Sonal Desai,Card,No
+ORD-20192,26-Apr-23,CUST-4471,Sneha Bose,Retail,East,Patna,Footwear,Sandals,Wedge Sandals,PROD-3178,6,999,5,5694.3,3437.96,2256.34,Vivek Anand,UPI,No
